@@ -1,0 +1,7 @@
+flask
+pandas
+pymongo
+beautifulsoup4
+lxml
+
+
