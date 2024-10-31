@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Contenido del Archivo CSV</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.1.3/css/bootstrap.min.css">
+</head>
+<body>
+    <h1>Contenido del Archivo Subido</h1>
+    <div class="container mt-4">
+        {{ table_html | safe }}
+    </div>
+    <a href="{{ url_for('index') }}">Subir otro archivo</a>
+</body>
+</html>

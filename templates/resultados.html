@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Resultados de Nómina</title>
+</head>
+<body>
+    <h1>Resultados de Nómina</h1>
+    <table border="1">
+        <tr>
+            <th>Nombre</th>
+            <th>Salario por Hora</th>
+            <th>Horas Trabajadas</th>
+            <th>Salario Bruto</th>
+            <th>Salario Neto</th>
+        </tr>
+        {% for item in data %}
+        <tr>
+            <td>{{ item.nombre }}</td>
+            <td>{{ item.salario_por_hora }}</td>
+            <td>{{ item.horas_trabajadas }}</td>
+            <td>{{ item.salario_bruto }}</td>
+            <td>{{ item.salario_neto }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+
+    <h2>Consultas de Agregación</h2>
+    <ul>
+        <li>Total Horas Trabajadas: {{ results.total_horas_trabajadas }}</li>
+        <li>Promedio Horas Trabajadas: {{ results.promedio_horas_trabajadas }}</li>
+        <li>Total Salario por Hora: {{ results.total_salario_por_hora }}</li>
+        <li>Promedio Salario por Hora: {{ results.promedio_salario_por_hora }}</li>
+        <li>Total Salario Bruto: {{ results.total_salario_bruto }}</li>
+        <li>Promedio Salario Bruto: {{ results.promedio_salario_bruto }}</li>
+        <li>Total Salario Neto: {{ results.total_salario_neto }}</li>
+        <li>Promedio Salario Neto: {{ results.promedio_salario_neto }}</li>
+        <li>Salario Neto Más Alto: {{ results.salario_neto_mas_alto }}</li>
+        <li>Salario Neto Más Bajo: {{ results.salario_neto_mas_bajo }}</li>
+    </ul>
+</body>
+</html>
