@@ -6,37 +6,33 @@
 </head>
 <body>
     <h1>Resultados de Nómina</h1>
-    <table border="1">
-        <tr>
-            <th>Nombre</th>
-            <th>Salario por Hora</th>
-            <th>Horas Trabajadas</th>
-            <th>Salario Bruto</th>
-            <th>Salario Neto</th>
-        </tr>
-        {% for item in data %}
-        <tr>
-            <td>{{ item.nombre }}</td>
-            <td>{{ item.salario_por_hora }}</td>
-            <td>{{ item.horas_trabajadas }}</td>
-            <td>{{ item.salario_bruto }}</td>
-            <td>{{ item.salario_neto }}</td>
-        </tr>
-        {% endfor %}
-    </table>
 
-    <h2>Consultas de Agregación</h2>
-    <ul>
-        <li>Total Horas Trabajadas: {{ results.total_horas_trabajadas }}</li>
-        <li>Promedio Horas Trabajadas: {{ results.promedio_horas_trabajadas }}</li>
-        <li>Total Salario por Hora: {{ results.total_salario_por_hora }}</li>
-        <li>Promedio Salario por Hora: {{ results.promedio_salario_por_hora }}</li>
-        <li>Total Salario Bruto: {{ results.total_salario_bruto }}</li>
-        <li>Promedio Salario Bruto: {{ results.promedio_salario_bruto }}</li>
-        <li>Total Salario Neto: {{ results.total_salario_neto }}</li>
-        <li>Promedio Salario Neto: {{ results.promedio_salario_neto }}</li>
-        <li>Salario Neto Más Alto: {{ results.salario_neto_mas_alto }}</li>
-        <li>Salario Neto Más Bajo: {{ results.salario_neto_mas_bajo }}</li>
-    </ul>
+    <table border="1">
+        <thead>
+            <tr>
+                <!-- Asegúrate de que todos los nombres de las columnas coincidan con las claves de los datos -->
+                <th>Nombre</th>
+                <th>Salario por Hora</th>
+                <th>Horas Trabajadas</th>
+                <th>Salario Bruto</th>
+                <th>IGSS</th>
+                <th>ISR</th>
+                <th>Salario Neto</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for row in data %}
+                <tr>
+                    <td>{{ row.Nombre }}</td>
+                    <td>{{ row['Salario por Hora'] }}</td>
+                    <td>{{ row['Horas Trabajadas'] }}</td>
+                    <td>{{ row['Salario Bruto'] }}</td>
+                    <td>{{ row['Deduccion IGSS'] }}</td>
+                    <td>{{ row['Deduccion ISR']}}</td>
+                    <td>{{ row['Salario Neto'] }}</td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
 </body>
 </html>

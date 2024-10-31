@@ -9,6 +9,7 @@ def load_csv_data(file_path):
 def load_mongo_data(db, collection_name):
     # Conectar con la colección de MongoDB
     collection = db[collection_name]
-    # Obtener los datos de la colección
-    data = list(collection.find({}, {'_id': 0}))  # Excluir el campo '_id'
-    return pd.DataFrame(data)  # Convertir a DataFrame para consistencia
+    # Obtener los datos de la colección como una lista de diccionarios y excluir '_id'
+    data = list(collection.find({}, {'_id': 0}))
+    return data  # Devolver como lista de diccionarios
+

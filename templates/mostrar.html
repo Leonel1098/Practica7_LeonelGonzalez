@@ -2,14 +2,50 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>Contenido del Archivo CSV</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.1.3/css/bootstrap.min.css">
+    <title>Datos de Nómina</title>
 </head>
 <body>
-    <h1>Contenido del Archivo Subido</h1>
-    <div class="container mt-4">
-        {{ table_html | safe }}
-    </div>
-    <a href="{{ url_for('index') }}">Subir otro archivo</a>
+    <h1>Datos de Nómina - Sin Cálculos</h1>
+
+    <!-- Formulario para Crear un Empleado -->
+    <form action="{{ url_for('create_employee') }}" method="POST">
+        <input type="text" name="nombre" placeholder="Nombre" required>
+        <input type="number" step="0.01" name="salario_por_hora" placeholder="Salario por Hora" required>
+        <input type="number" name="horas_trabajadas" placeholder="Horas Trabajadas" required>
+        <button type="submit">Crear Empleado</button>
+    </form>
+
+    <table border="1">
+        <thead>
+            <tr>
+                <th>Nombre</th>
+                <th>Salario por Hora</th>
+                <th>Horas Trabajadas</th>
+                <th>Acciones</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for row in data %}
+                <tr>
+                    <td>{{ row.Nombre }}</td>
+                    <td>{{ row['Salario por Hora'] }}</td>
+                    <td>{{ row['Horas Trabajadas'] }}</td>
+                    <td>
+                        <!-- Formulario para Actualizar Empleado -->
+                        <form action="{{ url_for('update_employee') }}" method="POST" style="display:inline;">
+                            <input type="hidden" name="nombre" value="{{ row.Nombre }}">
+                            <input type="number" step="0.01" name="salario_por_hora" value="{{ row['Salario por Hora'] }}" required>
+                            <input type="number" name="horas_trabajadas" value="{{ row['Horas Trabajadas'] }}" required>
+                            <button type="submit">Actualizar</button>
+                        </form>
+                        <!-- Formulario para Eliminar Empleado -->
+                        <form action="{{ url_for('delete_employee', nombre=row.Nombre) }}" method="POST" style="display:inline;">
+                            <button type="submit" onclick="return confirm('¿Estás seguro de eliminar este empleado?')">Eliminar</button>
+                        </form>
+                    </td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
 </body>
 </html>

@@ -1,11 +1,26 @@
 from statistics import median
-
+import pandas as pd
+from pymongo import MongoClient
 
 def save_to_mongo(db, collection_name, data):
-    # Convertir DataFrame a diccionario para MongoDB
     collection = db[collection_name]
-    records = data.to_dict(orient='records')
-    collection.insert_many(records)
+    collection.insert_many(data.to_dict('records'))
+
+def load_mongo_data(db, collection_name):
+    collection = db[collection_name]
+    data = list(collection.find({}, {'_id': 0}))
+    return pd.DataFrame(data)
+
+def update_mongo_data(db, collection_name, nombre, salario_por_hora, horas_trabajadas):
+    collection = db[collection_name]
+    collection.update_one(
+        {'Nombre': nombre},
+        {'$set': {'Salario por Hora': salario_por_hora, 'Horas Trabajadas': horas_trabajadas}}
+    )
+
+def delete_from_mongo(db, collection_name, nombre):
+    collection = db[collection_name]
+    collection.delete_one({'Nombre': nombre})
 
 def get_aggregation_results(db, collection_name):
     collection = db[collection_name]
@@ -85,12 +100,3 @@ def get_aggregation_results(db, collection_name):
     # Consultas similares se pueden hacer para otros resultados
     # Retornar resultados para mostrarlos o usarlos en una interfaz
     return list(total_hours)
-
-def update_mongo_data(db, collection_name, nombre_empleado, nuevo_salario, nuevas_horas):
-    # Actualizar los datos de un empleado
-    collection = db[collection_name]
-    collection.update_one(
-        {"Nombre": nombre_empleado},
-        {"$set": {"Salario por Hora": nuevo_salario, "Horas Trabajadas": nuevas_horas}}
-    )
-
