@@ -1,0 +1,2160 @@
+[{
+  "_id": {
+    "$oid": "6725a8bf1370c30bd84759ce"
+  },
+  "Nombre": "Juan Perez",
+  "Salario por Hora": 25.5,
+  "Horas Trabajadas": 160,
+  "Salario Bruto": 4080,
+  "Deduccion IGSS": 197.06400000000002,
+  "Deduccion ISR": 204,
+  "Salario Neto": 3678.936
+},
+{
+  "_id": {
+    "$oid": "6725a8bf1370c30bd84759cf"
+  },
+  "Nombre": "Maria Lopez",
+  "Salario por Hora": 30,
+  "Horas Trabajadas": 150,
+  "Salario Bruto": 4500,
+  "Deduccion IGSS": 217.35000000000002,
+  "Deduccion ISR": 225,
+  "Salario Neto": 4057.65
+},
+{
+  "_id": {
+    "$oid": "6725a8bf1370c30bd84759d0"
+  },
+  "Nombre": "Carlos Diaz",
+  "Salario por Hora": 22.75,
+  "Horas Trabajadas": 170,
+  "Salario Bruto": 3867.5,
+  "Deduccion IGSS": 186.80025,
+  "Deduccion ISR": 193.375,
+  "Salario Neto": 3487.3247499999998
+},
+{
+  "_id": {
+    "$oid": "6725a8bf1370c30bd84759d1"
+  },
+  "Nombre": "Ana Martinez",
+  "Salario por Hora": 28.5,
+  "Horas Trabajadas": 155,
+  "Salario Bruto": 4417.5,
+  "Deduccion IGSS": 213.36525,
+  "Deduccion ISR": 220.875,
+  "Salario Neto": 3983.25975
+},
+{
+  "_id": {
+    "$oid": "6725a8bf1370c30bd84759d2"
+  },
+  "Nombre": "Luis Torres",
+  "Salario por Hora": 27,
+  "Horas Trabajadas": 165,
+  "Salario Bruto": 4455,
+  "Deduccion IGSS": 215.1765,
+  "Deduccion ISR": 222.75,
+  "Salario Neto": 4017.0735
+},
+{
+  "_id": {
+    "$oid": "6725a8bf1370c30bd84759d3"
+  },
+  "Nombre": "Sofia Ramirez",
+  "Salario por Hora": 26.75,
+  "Horas Trabajadas": 158,
+  "Salario Bruto": 4226.5,
+  "Deduccion IGSS": 204.13995,
+  "Deduccion ISR": 211.32500000000002,
+  "Salario Neto": 3811.03505
+},
+{
+  "_id": {
+    "$oid": "6725a8bf1370c30bd84759d4"
+  },
+  "Nombre": "Miguel Gomez",
+  "Salario por Hora": 24.5,
+  "Horas Trabajadas": 162,
+  "Salario Bruto": 3969,
+  "Deduccion IGSS": 191.70270000000002,
+  "Deduccion ISR": 198.45000000000002,
+  "Salario Neto": 3578.8473
+},
+{
+  "_id": {
+    "$oid": "6725a8bf1370c30bd84759d5"
+  },
+  "Nombre": "Carla Fernandez",
+  "Salario por Hora": 29,
+  "Horas Trabajadas": 148,
+  "Salario Bruto": 4292,
+  "Deduccion IGSS": 207.30360000000002,
+  "Deduccion ISR": 214.60000000000002,
+  "Salario Neto": 3870.0964
+},
+{
+  "_id": {
+    "$oid": "6725a8bf1370c30bd84759d6"
+  },
+  "Nombre": "Jorge Hernandez",
+  "Salario por Hora": 21,
+  "Horas Trabajadas": 172,
+  "Salario Bruto": 3612,
+  "Deduccion IGSS": 174.45960000000002,
+  "Deduccion ISR": 180.60000000000002,
+  "Salario Neto": 3256.9404
+},
+{
+  "_id": {
+    "$oid": "6725a8bf1370c30bd84759d7"
+  },
+  "Nombre": "Lucia Castro",
+  "Salario por Hora": 30.5,
+  "Horas Trabajadas": 160,
+  "Salario Bruto": 4880,
+  "Deduccion IGSS": 235.704,
+  "Deduccion ISR": 244,
+  "Salario Neto": 4400.296
+},
+{
+  "_id": {
+    "$oid": "6725a91fd5d775d0935764f0"
+  },
+  "Nombre": "Juan Perez",
+  "Salario por Hora": 25.5,
+  "Horas Trabajadas": 160,
+  "Salario Bruto": 4080,
+  "Deduccion IGSS": 197.06400000000002,
+  "Deduccion ISR": 204,
+  "Salario Neto": 3678.936
+},
+{
+  "_id": {
+    "$oid": "6725a91fd5d775d0935764f1"
+  },
+  "Nombre": "Maria Lopez",
+  "Salario por Hora": 30,
+  "Horas Trabajadas": 150,
+  "Salario Bruto": 4500,
+  "Deduccion IGSS": 217.35000000000002,
+  "Deduccion ISR": 225,
+  "Salario Neto": 4057.65
+},
+{
+  "_id": {
+    "$oid": "6725a91fd5d775d0935764f2"
+  },
+  "Nombre": "Carlos Diaz",
+  "Salario por Hora": 22.75,
+  "Horas Trabajadas": 170,
+  "Salario Bruto": 3867.5,
+  "Deduccion IGSS": 186.80025,
+  "Deduccion ISR": 193.375,
+  "Salario Neto": 3487.3247499999998
+},
+{
+  "_id": {
+    "$oid": "6725a91fd5d775d0935764f3"
+  },
+  "Nombre": "Ana Martinez",
+  "Salario por Hora": 28.5,
+  "Horas Trabajadas": 155,
+  "Salario Bruto": 4417.5,
+  "Deduccion IGSS": 213.36525,
+  "Deduccion ISR": 220.875,
+  "Salario Neto": 3983.25975
+},
+{
+  "_id": {
+    "$oid": "6725a91fd5d775d0935764f4"
+  },
+  "Nombre": "Luis Torres",
+  "Salario por Hora": 27,
+  "Horas Trabajadas": 165,
+  "Salario Bruto": 4455,
+  "Deduccion IGSS": 215.1765,
+  "Deduccion ISR": 222.75,
+  "Salario Neto": 4017.0735
+},
+{
+  "_id": {
+    "$oid": "6725a91fd5d775d0935764f5"
+  },
+  "Nombre": "Sofia Ramirez",
+  "Salario por Hora": 26.75,
+  "Horas Trabajadas": 158,
+  "Salario Bruto": 4226.5,
+  "Deduccion IGSS": 204.13995,
+  "Deduccion ISR": 211.32500000000002,
+  "Salario Neto": 3811.03505
+},
+{
+  "_id": {
+    "$oid": "6725a91fd5d775d0935764f6"
+  },
+  "Nombre": "Miguel Gomez",
+  "Salario por Hora": 24.5,
+  "Horas Trabajadas": 162,
+  "Salario Bruto": 3969,
+  "Deduccion IGSS": 191.70270000000002,
+  "Deduccion ISR": 198.45000000000002,
+  "Salario Neto": 3578.8473
+},
+{
+  "_id": {
+    "$oid": "6725a91fd5d775d0935764f7"
+  },
+  "Nombre": "Carla Fernandez",
+  "Salario por Hora": 29,
+  "Horas Trabajadas": 148,
+  "Salario Bruto": 4292,
+  "Deduccion IGSS": 207.30360000000002,
+  "Deduccion ISR": 214.60000000000002,
+  "Salario Neto": 3870.0964
+},
+{
+  "_id": {
+    "$oid": "6725a91fd5d775d0935764f8"
+  },
+  "Nombre": "Jorge Hernandez",
+  "Salario por Hora": 21,
+  "Horas Trabajadas": 172,
+  "Salario Bruto": 3612,
+  "Deduccion IGSS": 174.45960000000002,
+  "Deduccion ISR": 180.60000000000002,
+  "Salario Neto": 3256.9404
+},
+{
+  "_id": {
+    "$oid": "6725a91fd5d775d0935764f9"
+  },
+  "Nombre": "Lucia Castro",
+  "Salario por Hora": 30.5,
+  "Horas Trabajadas": 160,
+  "Salario Bruto": 4880,
+  "Deduccion IGSS": 235.704,
+  "Deduccion ISR": 244,
+  "Salario Neto": 4400.296
+},
+{
+  "_id": {
+    "$oid": "6725ac814001939b9b279017"
+  },
+  "Nombre": "Juan Perez",
+  "Salario por Hora": 25.5,
+  "Horas Trabajadas": 160,
+  "Salario Bruto": 4080,
+  "Deduccion IGSS": 197.06400000000002,
+  "Deduccion ISR": 204,
+  "Salario Neto": 3678.936
+},
+{
+  "_id": {
+    "$oid": "6725ac814001939b9b279018"
+  },
+  "Nombre": "Maria Lopez",
+  "Salario por Hora": 30,
+  "Horas Trabajadas": 150,
+  "Salario Bruto": 4500,
+  "Deduccion IGSS": 217.35000000000002,
+  "Deduccion ISR": 225,
+  "Salario Neto": 4057.65
+},
+{
+  "_id": {
+    "$oid": "6725ac814001939b9b279019"
+  },
+  "Nombre": "Carlos Diaz",
+  "Salario por Hora": 22.75,
+  "Horas Trabajadas": 170,
+  "Salario Bruto": 3867.5,
+  "Deduccion IGSS": 186.80025,
+  "Deduccion ISR": 193.375,
+  "Salario Neto": 3487.3247499999998
+},
+{
+  "_id": {
+    "$oid": "6725ac814001939b9b27901a"
+  },
+  "Nombre": "Ana Martinez",
+  "Salario por Hora": 28.5,
+  "Horas Trabajadas": 155,
+  "Salario Bruto": 4417.5,
+  "Deduccion IGSS": 213.36525,
+  "Deduccion ISR": 220.875,
+  "Salario Neto": 3983.25975
+},
+{
+  "_id": {
+    "$oid": "6725ac814001939b9b27901b"
+  },
+  "Nombre": "Luis Torres",
+  "Salario por Hora": 27,
+  "Horas Trabajadas": 165,
+  "Salario Bruto": 4455,
+  "Deduccion IGSS": 215.1765,
+  "Deduccion ISR": 222.75,
+  "Salario Neto": 4017.0735
+},
+{
+  "_id": {
+    "$oid": "6725ac814001939b9b27901c"
+  },
+  "Nombre": "Sofia Ramirez",
+  "Salario por Hora": 26.75,
+  "Horas Trabajadas": 158,
+  "Salario Bruto": 4226.5,
+  "Deduccion IGSS": 204.13995,
+  "Deduccion ISR": 211.32500000000002,
+  "Salario Neto": 3811.03505
+},
+{
+  "_id": {
+    "$oid": "6725ac814001939b9b27901d"
+  },
+  "Nombre": "Miguel Gomez",
+  "Salario por Hora": 24.5,
+  "Horas Trabajadas": 162,
+  "Salario Bruto": 3969,
+  "Deduccion IGSS": 191.70270000000002,
+  "Deduccion ISR": 198.45000000000002,
+  "Salario Neto": 3578.8473
+},
+{
+  "_id": {
+    "$oid": "6725ac814001939b9b27901e"
+  },
+  "Nombre": "Carla Fernandez",
+  "Salario por Hora": 29,
+  "Horas Trabajadas": 148,
+  "Salario Bruto": 4292,
+  "Deduccion IGSS": 207.30360000000002,
+  "Deduccion ISR": 214.60000000000002,
+  "Salario Neto": 3870.0964
+},
+{
+  "_id": {
+    "$oid": "6725ac814001939b9b27901f"
+  },
+  "Nombre": "Jorge Hernandez",
+  "Salario por Hora": 21,
+  "Horas Trabajadas": 172,
+  "Salario Bruto": 3612,
+  "Deduccion IGSS": 174.45960000000002,
+  "Deduccion ISR": 180.60000000000002,
+  "Salario Neto": 3256.9404
+},
+{
+  "_id": {
+    "$oid": "6725ac814001939b9b279020"
+  },
+  "Nombre": "Lucia Castro",
+  "Salario por Hora": 30.5,
+  "Horas Trabajadas": 160,
+  "Salario Bruto": 4880,
+  "Deduccion IGSS": 235.704,
+  "Deduccion ISR": 244,
+  "Salario Neto": 4400.296
+},
+{
+  "_id": {
+    "$oid": "6725ae2d9eda44c41bb8d4c3"
+  },
+  "Nombre": "Juan Perez",
+  "Salario por Hora": 25.5,
+  "Horas Trabajadas": 160,
+  "Salario Bruto": 4080,
+  "Deduccion IGSS": 197.06400000000002,
+  "Deduccion ISR": 204,
+  "Salario Neto": 3678.936
+},
+{
+  "_id": {
+    "$oid": "6725ae2d9eda44c41bb8d4c4"
+  },
+  "Nombre": "Maria Lopez",
+  "Salario por Hora": 30,
+  "Horas Trabajadas": 150,
+  "Salario Bruto": 4500,
+  "Deduccion IGSS": 217.35000000000002,
+  "Deduccion ISR": 225,
+  "Salario Neto": 4057.65
+},
+{
+  "_id": {
+    "$oid": "6725ae2d9eda44c41bb8d4c5"
+  },
+  "Nombre": "Carlos Diaz",
+  "Salario por Hora": 22.75,
+  "Horas Trabajadas": 170,
+  "Salario Bruto": 3867.5,
+  "Deduccion IGSS": 186.80025,
+  "Deduccion ISR": 193.375,
+  "Salario Neto": 3487.3247499999998
+},
+{
+  "_id": {
+    "$oid": "6725ae2d9eda44c41bb8d4c6"
+  },
+  "Nombre": "Ana Martinez",
+  "Salario por Hora": 28.5,
+  "Horas Trabajadas": 155,
+  "Salario Bruto": 4417.5,
+  "Deduccion IGSS": 213.36525,
+  "Deduccion ISR": 220.875,
+  "Salario Neto": 3983.25975
+},
+{
+  "_id": {
+    "$oid": "6725ae2d9eda44c41bb8d4c7"
+  },
+  "Nombre": "Luis Torres",
+  "Salario por Hora": 27,
+  "Horas Trabajadas": 165,
+  "Salario Bruto": 4455,
+  "Deduccion IGSS": 215.1765,
+  "Deduccion ISR": 222.75,
+  "Salario Neto": 4017.0735
+},
+{
+  "_id": {
+    "$oid": "6725ae2d9eda44c41bb8d4c8"
+  },
+  "Nombre": "Sofia Ramirez",
+  "Salario por Hora": 26.75,
+  "Horas Trabajadas": 158,
+  "Salario Bruto": 4226.5,
+  "Deduccion IGSS": 204.13995,
+  "Deduccion ISR": 211.32500000000002,
+  "Salario Neto": 3811.03505
+},
+{
+  "_id": {
+    "$oid": "6725ae2d9eda44c41bb8d4c9"
+  },
+  "Nombre": "Miguel Gomez",
+  "Salario por Hora": 24.5,
+  "Horas Trabajadas": 162,
+  "Salario Bruto": 3969,
+  "Deduccion IGSS": 191.70270000000002,
+  "Deduccion ISR": 198.45000000000002,
+  "Salario Neto": 3578.8473
+},
+{
+  "_id": {
+    "$oid": "6725ae2d9eda44c41bb8d4ca"
+  },
+  "Nombre": "Carla Fernandez",
+  "Salario por Hora": 29,
+  "Horas Trabajadas": 148,
+  "Salario Bruto": 4292,
+  "Deduccion IGSS": 207.30360000000002,
+  "Deduccion ISR": 214.60000000000002,
+  "Salario Neto": 3870.0964
+},
+{
+  "_id": {
+    "$oid": "6725ae2d9eda44c41bb8d4cb"
+  },
+  "Nombre": "Jorge Hernandez",
+  "Salario por Hora": 21,
+  "Horas Trabajadas": 172,
+  "Salario Bruto": 3612,
+  "Deduccion IGSS": 174.45960000000002,
+  "Deduccion ISR": 180.60000000000002,
+  "Salario Neto": 3256.9404
+},
+{
+  "_id": {
+    "$oid": "6725ae2d9eda44c41bb8d4cc"
+  },
+  "Nombre": "Lucia Castro",
+  "Salario por Hora": 30.5,
+  "Horas Trabajadas": 160,
+  "Salario Bruto": 4880,
+  "Deduccion IGSS": 235.704,
+  "Deduccion ISR": 244,
+  "Salario Neto": 4400.296
+},
+{
+  "_id": {
+    "$oid": "6725ae960c0dde3943fccc93"
+  },
+  "Nombre": "Juan Perez",
+  "Salario por Hora": 25.5,
+  "Horas Trabajadas": 160,
+  "Salario Bruto": 4080,
+  "Deduccion IGSS": 197.06400000000002,
+  "Deduccion ISR": 204,
+  "Salario Neto": 3678.936
+},
+{
+  "_id": {
+    "$oid": "6725ae960c0dde3943fccc94"
+  },
+  "Nombre": "Maria Lopez",
+  "Salario por Hora": 30,
+  "Horas Trabajadas": 150,
+  "Salario Bruto": 4500,
+  "Deduccion IGSS": 217.35000000000002,
+  "Deduccion ISR": 225,
+  "Salario Neto": 4057.65
+},
+{
+  "_id": {
+    "$oid": "6725ae960c0dde3943fccc95"
+  },
+  "Nombre": "Carlos Diaz",
+  "Salario por Hora": 22.75,
+  "Horas Trabajadas": 170,
+  "Salario Bruto": 3867.5,
+  "Deduccion IGSS": 186.80025,
+  "Deduccion ISR": 193.375,
+  "Salario Neto": 3487.3247499999998
+},
+{
+  "_id": {
+    "$oid": "6725ae960c0dde3943fccc96"
+  },
+  "Nombre": "Ana Martinez",
+  "Salario por Hora": 28.5,
+  "Horas Trabajadas": 155,
+  "Salario Bruto": 4417.5,
+  "Deduccion IGSS": 213.36525,
+  "Deduccion ISR": 220.875,
+  "Salario Neto": 3983.25975
+},
+{
+  "_id": {
+    "$oid": "6725ae960c0dde3943fccc97"
+  },
+  "Nombre": "Luis Torres",
+  "Salario por Hora": 27,
+  "Horas Trabajadas": 165,
+  "Salario Bruto": 4455,
+  "Deduccion IGSS": 215.1765,
+  "Deduccion ISR": 222.75,
+  "Salario Neto": 4017.0735
+},
+{
+  "_id": {
+    "$oid": "6725ae960c0dde3943fccc98"
+  },
+  "Nombre": "Sofia Ramirez",
+  "Salario por Hora": 26.75,
+  "Horas Trabajadas": 158,
+  "Salario Bruto": 4226.5,
+  "Deduccion IGSS": 204.13995,
+  "Deduccion ISR": 211.32500000000002,
+  "Salario Neto": 3811.03505
+},
+{
+  "_id": {
+    "$oid": "6725ae960c0dde3943fccc99"
+  },
+  "Nombre": "Miguel Gomez",
+  "Salario por Hora": 24.5,
+  "Horas Trabajadas": 162,
+  "Salario Bruto": 3969,
+  "Deduccion IGSS": 191.70270000000002,
+  "Deduccion ISR": 198.45000000000002,
+  "Salario Neto": 3578.8473
+},
+{
+  "_id": {
+    "$oid": "6725ae960c0dde3943fccc9a"
+  },
+  "Nombre": "Carla Fernandez",
+  "Salario por Hora": 29,
+  "Horas Trabajadas": 148,
+  "Salario Bruto": 4292,
+  "Deduccion IGSS": 207.30360000000002,
+  "Deduccion ISR": 214.60000000000002,
+  "Salario Neto": 3870.0964
+},
+{
+  "_id": {
+    "$oid": "6725ae960c0dde3943fccc9b"
+  },
+  "Nombre": "Jorge Hernandez",
+  "Salario por Hora": 21,
+  "Horas Trabajadas": 172,
+  "Salario Bruto": 3612,
+  "Deduccion IGSS": 174.45960000000002,
+  "Deduccion ISR": 180.60000000000002,
+  "Salario Neto": 3256.9404
+},
+{
+  "_id": {
+    "$oid": "6725ae960c0dde3943fccc9c"
+  },
+  "Nombre": "Lucia Castro",
+  "Salario por Hora": 30.5,
+  "Horas Trabajadas": 160,
+  "Salario Bruto": 4880,
+  "Deduccion IGSS": 235.704,
+  "Deduccion ISR": 244,
+  "Salario Neto": 4400.296
+},
+{
+  "_id": {
+    "$oid": "6725afe29099eda56b2c589e"
+  },
+  "Nombre": "Juan Perez",
+  "Salario por Hora": 25.5,
+  "Horas Trabajadas": 160,
+  "Salario Bruto": 4080,
+  "Deduccion IGSS": 197.06400000000002,
+  "Deduccion ISR": 204,
+  "Salario Neto": 3678.936
+},
+{
+  "_id": {
+    "$oid": "6725afe29099eda56b2c589f"
+  },
+  "Nombre": "Maria Lopez",
+  "Salario por Hora": 30,
+  "Horas Trabajadas": 150,
+  "Salario Bruto": 4500,
+  "Deduccion IGSS": 217.35000000000002,
+  "Deduccion ISR": 225,
+  "Salario Neto": 4057.65
+},
+{
+  "_id": {
+    "$oid": "6725afe29099eda56b2c58a0"
+  },
+  "Nombre": "Carlos Diaz",
+  "Salario por Hora": 22.75,
+  "Horas Trabajadas": 170,
+  "Salario Bruto": 3867.5,
+  "Deduccion IGSS": 186.80025,
+  "Deduccion ISR": 193.375,
+  "Salario Neto": 3487.3247499999998
+},
+{
+  "_id": {
+    "$oid": "6725afe29099eda56b2c58a1"
+  },
+  "Nombre": "Ana Martinez",
+  "Salario por Hora": 28.5,
+  "Horas Trabajadas": 155,
+  "Salario Bruto": 4417.5,
+  "Deduccion IGSS": 213.36525,
+  "Deduccion ISR": 220.875,
+  "Salario Neto": 3983.25975
+},
+{
+  "_id": {
+    "$oid": "6725afe29099eda56b2c58a2"
+  },
+  "Nombre": "Luis Torres",
+  "Salario por Hora": 27,
+  "Horas Trabajadas": 165,
+  "Salario Bruto": 4455,
+  "Deduccion IGSS": 215.1765,
+  "Deduccion ISR": 222.75,
+  "Salario Neto": 4017.0735
+},
+{
+  "_id": {
+    "$oid": "6725afe29099eda56b2c58a3"
+  },
+  "Nombre": "Sofia Ramirez",
+  "Salario por Hora": 26.75,
+  "Horas Trabajadas": 158,
+  "Salario Bruto": 4226.5,
+  "Deduccion IGSS": 204.13995,
+  "Deduccion ISR": 211.32500000000002,
+  "Salario Neto": 3811.03505
+},
+{
+  "_id": {
+    "$oid": "6725afe29099eda56b2c58a4"
+  },
+  "Nombre": "Miguel Gomez",
+  "Salario por Hora": 24.5,
+  "Horas Trabajadas": 162,
+  "Salario Bruto": 3969,
+  "Deduccion IGSS": 191.70270000000002,
+  "Deduccion ISR": 198.45000000000002,
+  "Salario Neto": 3578.8473
+},
+{
+  "_id": {
+    "$oid": "6725afe29099eda56b2c58a5"
+  },
+  "Nombre": "Carla Fernandez",
+  "Salario por Hora": 29,
+  "Horas Trabajadas": 148,
+  "Salario Bruto": 4292,
+  "Deduccion IGSS": 207.30360000000002,
+  "Deduccion ISR": 214.60000000000002,
+  "Salario Neto": 3870.0964
+},
+{
+  "_id": {
+    "$oid": "6725afe29099eda56b2c58a6"
+  },
+  "Nombre": "Jorge Hernandez",
+  "Salario por Hora": 21,
+  "Horas Trabajadas": 172,
+  "Salario Bruto": 3612,
+  "Deduccion IGSS": 174.45960000000002,
+  "Deduccion ISR": 180.60000000000002,
+  "Salario Neto": 3256.9404
+},
+{
+  "_id": {
+    "$oid": "6725afe29099eda56b2c58a7"
+  },
+  "Nombre": "Lucia Castro",
+  "Salario por Hora": 30.5,
+  "Horas Trabajadas": 160,
+  "Salario Bruto": 4880,
+  "Deduccion IGSS": 235.704,
+  "Deduccion ISR": 244,
+  "Salario Neto": 4400.296
+},
+{
+  "_id": {
+    "$oid": "6725b18251f5ff658d9a83f6"
+  },
+  "Nombre": "Juan Perez",
+  "Salario por Hora": 25.5,
+  "Horas Trabajadas": 160,
+  "Salario Bruto": 4080,
+  "Deduccion IGSS": 197.06400000000002,
+  "Deduccion ISR": 204,
+  "Salario Neto": 3678.936
+},
+{
+  "_id": {
+    "$oid": "6725b18251f5ff658d9a83f7"
+  },
+  "Nombre": "Maria Lopez",
+  "Salario por Hora": 30,
+  "Horas Trabajadas": 150,
+  "Salario Bruto": 4500,
+  "Deduccion IGSS": 217.35000000000002,
+  "Deduccion ISR": 225,
+  "Salario Neto": 4057.65
+},
+{
+  "_id": {
+    "$oid": "6725b18251f5ff658d9a83f8"
+  },
+  "Nombre": "Carlos Diaz",
+  "Salario por Hora": 22.75,
+  "Horas Trabajadas": 170,
+  "Salario Bruto": 3867.5,
+  "Deduccion IGSS": 186.80025,
+  "Deduccion ISR": 193.375,
+  "Salario Neto": 3487.3247499999998
+},
+{
+  "_id": {
+    "$oid": "6725b18251f5ff658d9a83f9"
+  },
+  "Nombre": "Ana Martinez",
+  "Salario por Hora": 28.5,
+  "Horas Trabajadas": 155,
+  "Salario Bruto": 4417.5,
+  "Deduccion IGSS": 213.36525,
+  "Deduccion ISR": 220.875,
+  "Salario Neto": 3983.25975
+},
+{
+  "_id": {
+    "$oid": "6725b18251f5ff658d9a83fa"
+  },
+  "Nombre": "Luis Torres",
+  "Salario por Hora": 27,
+  "Horas Trabajadas": 165,
+  "Salario Bruto": 4455,
+  "Deduccion IGSS": 215.1765,
+  "Deduccion ISR": 222.75,
+  "Salario Neto": 4017.0735
+},
+{
+  "_id": {
+    "$oid": "6725b18251f5ff658d9a83fb"
+  },
+  "Nombre": "Sofia Ramirez",
+  "Salario por Hora": 26.75,
+  "Horas Trabajadas": 158,
+  "Salario Bruto": 4226.5,
+  "Deduccion IGSS": 204.13995,
+  "Deduccion ISR": 211.32500000000002,
+  "Salario Neto": 3811.03505
+},
+{
+  "_id": {
+    "$oid": "6725b18251f5ff658d9a83fc"
+  },
+  "Nombre": "Miguel Gomez",
+  "Salario por Hora": 24.5,
+  "Horas Trabajadas": 162,
+  "Salario Bruto": 3969,
+  "Deduccion IGSS": 191.70270000000002,
+  "Deduccion ISR": 198.45000000000002,
+  "Salario Neto": 3578.8473
+},
+{
+  "_id": {
+    "$oid": "6725b18251f5ff658d9a83fd"
+  },
+  "Nombre": "Carla Fernandez",
+  "Salario por Hora": 29,
+  "Horas Trabajadas": 148,
+  "Salario Bruto": 4292,
+  "Deduccion IGSS": 207.30360000000002,
+  "Deduccion ISR": 214.60000000000002,
+  "Salario Neto": 3870.0964
+},
+{
+  "_id": {
+    "$oid": "6725b18251f5ff658d9a83fe"
+  },
+  "Nombre": "Jorge Hernandez",
+  "Salario por Hora": 21,
+  "Horas Trabajadas": 172,
+  "Salario Bruto": 3612,
+  "Deduccion IGSS": 174.45960000000002,
+  "Deduccion ISR": 180.60000000000002,
+  "Salario Neto": 3256.9404
+},
+{
+  "_id": {
+    "$oid": "6725b18251f5ff658d9a83ff"
+  },
+  "Nombre": "Lucia Castro",
+  "Salario por Hora": 30.5,
+  "Horas Trabajadas": 160,
+  "Salario Bruto": 4880,
+  "Deduccion IGSS": 235.704,
+  "Deduccion ISR": 244,
+  "Salario Neto": 4400.296
+},
+{
+  "_id": {
+    "$oid": "6725b3065dcdf5082da7ceec"
+  },
+  "Nombre": "Juan Perez",
+  "Salario por Hora": 25.5,
+  "Horas Trabajadas": 160,
+  "Salario Bruto": 4080,
+  "Deduccion IGSS": 197.06400000000002,
+  "Deduccion ISR": 204,
+  "Salario Neto": 3678.936
+},
+{
+  "_id": {
+    "$oid": "6725b3065dcdf5082da7ceed"
+  },
+  "Nombre": "Maria Lopez",
+  "Salario por Hora": 30,
+  "Horas Trabajadas": 150,
+  "Salario Bruto": 4500,
+  "Deduccion IGSS": 217.35000000000002,
+  "Deduccion ISR": 225,
+  "Salario Neto": 4057.65
+},
+{
+  "_id": {
+    "$oid": "6725b3065dcdf5082da7ceee"
+  },
+  "Nombre": "Carlos Diaz",
+  "Salario por Hora": 22.75,
+  "Horas Trabajadas": 170,
+  "Salario Bruto": 3867.5,
+  "Deduccion IGSS": 186.80025,
+  "Deduccion ISR": 193.375,
+  "Salario Neto": 3487.3247499999998
+},
+{
+  "_id": {
+    "$oid": "6725b3065dcdf5082da7ceef"
+  },
+  "Nombre": "Ana Martinez",
+  "Salario por Hora": 28.5,
+  "Horas Trabajadas": 155,
+  "Salario Bruto": 4417.5,
+  "Deduccion IGSS": 213.36525,
+  "Deduccion ISR": 220.875,
+  "Salario Neto": 3983.25975
+},
+{
+  "_id": {
+    "$oid": "6725b3065dcdf5082da7cef0"
+  },
+  "Nombre": "Luis Torres",
+  "Salario por Hora": 27,
+  "Horas Trabajadas": 165,
+  "Salario Bruto": 4455,
+  "Deduccion IGSS": 215.1765,
+  "Deduccion ISR": 222.75,
+  "Salario Neto": 4017.0735
+},
+{
+  "_id": {
+    "$oid": "6725b3065dcdf5082da7cef1"
+  },
+  "Nombre": "Sofia Ramirez",
+  "Salario por Hora": 26.75,
+  "Horas Trabajadas": 158,
+  "Salario Bruto": 4226.5,
+  "Deduccion IGSS": 204.13995,
+  "Deduccion ISR": 211.32500000000002,
+  "Salario Neto": 3811.03505
+},
+{
+  "_id": {
+    "$oid": "6725b3065dcdf5082da7cef2"
+  },
+  "Nombre": "Miguel Gomez",
+  "Salario por Hora": 24.5,
+  "Horas Trabajadas": 162,
+  "Salario Bruto": 3969,
+  "Deduccion IGSS": 191.70270000000002,
+  "Deduccion ISR": 198.45000000000002,
+  "Salario Neto": 3578.8473
+},
+{
+  "_id": {
+    "$oid": "6725b3065dcdf5082da7cef3"
+  },
+  "Nombre": "Carla Fernandez",
+  "Salario por Hora": 29,
+  "Horas Trabajadas": 148,
+  "Salario Bruto": 4292,
+  "Deduccion IGSS": 207.30360000000002,
+  "Deduccion ISR": 214.60000000000002,
+  "Salario Neto": 3870.0964
+},
+{
+  "_id": {
+    "$oid": "6725b3065dcdf5082da7cef4"
+  },
+  "Nombre": "Jorge Hernandez",
+  "Salario por Hora": 21,
+  "Horas Trabajadas": 172,
+  "Salario Bruto": 3612,
+  "Deduccion IGSS": 174.45960000000002,
+  "Deduccion ISR": 180.60000000000002,
+  "Salario Neto": 3256.9404
+},
+{
+  "_id": {
+    "$oid": "6725b3065dcdf5082da7cef5"
+  },
+  "Nombre": "Lucia Castro",
+  "Salario por Hora": 30.5,
+  "Horas Trabajadas": 160,
+  "Salario Bruto": 4880,
+  "Deduccion IGSS": 235.704,
+  "Deduccion ISR": 244,
+  "Salario Neto": 4400.296
+},
+{
+  "_id": {
+    "$oid": "6725b3e83ea30f902940d7c4"
+  },
+  "Nombre": "Juan Perez",
+  "Salario por Hora": 25.5,
+  "Horas Trabajadas": 160,
+  "Salario Bruto": 4080,
+  "Deduccion IGSS": 197.06400000000002,
+  "Deduccion ISR": 204,
+  "Salario Neto": 3678.936
+},
+{
+  "_id": {
+    "$oid": "6725b3e83ea30f902940d7c5"
+  },
+  "Nombre": "Maria Lopez",
+  "Salario por Hora": 30,
+  "Horas Trabajadas": 150,
+  "Salario Bruto": 4500,
+  "Deduccion IGSS": 217.35000000000002,
+  "Deduccion ISR": 225,
+  "Salario Neto": 4057.65
+},
+{
+  "_id": {
+    "$oid": "6725b3e83ea30f902940d7c6"
+  },
+  "Nombre": "Carlos Diaz",
+  "Salario por Hora": 22.75,
+  "Horas Trabajadas": 170,
+  "Salario Bruto": 3867.5,
+  "Deduccion IGSS": 186.80025,
+  "Deduccion ISR": 193.375,
+  "Salario Neto": 3487.3247499999998
+},
+{
+  "_id": {
+    "$oid": "6725b3e83ea30f902940d7c7"
+  },
+  "Nombre": "Ana Martinez",
+  "Salario por Hora": 28.5,
+  "Horas Trabajadas": 155,
+  "Salario Bruto": 4417.5,
+  "Deduccion IGSS": 213.36525,
+  "Deduccion ISR": 220.875,
+  "Salario Neto": 3983.25975
+},
+{
+  "_id": {
+    "$oid": "6725b3e83ea30f902940d7c8"
+  },
+  "Nombre": "Luis Torres",
+  "Salario por Hora": 27,
+  "Horas Trabajadas": 165,
+  "Salario Bruto": 4455,
+  "Deduccion IGSS": 215.1765,
+  "Deduccion ISR": 222.75,
+  "Salario Neto": 4017.0735
+},
+{
+  "_id": {
+    "$oid": "6725b3e83ea30f902940d7c9"
+  },
+  "Nombre": "Sofia Ramirez",
+  "Salario por Hora": 26.75,
+  "Horas Trabajadas": 158,
+  "Salario Bruto": 4226.5,
+  "Deduccion IGSS": 204.13995,
+  "Deduccion ISR": 211.32500000000002,
+  "Salario Neto": 3811.03505
+},
+{
+  "_id": {
+    "$oid": "6725b3e83ea30f902940d7ca"
+  },
+  "Nombre": "Miguel Gomez",
+  "Salario por Hora": 24.5,
+  "Horas Trabajadas": 162,
+  "Salario Bruto": 3969,
+  "Deduccion IGSS": 191.70270000000002,
+  "Deduccion ISR": 198.45000000000002,
+  "Salario Neto": 3578.8473
+},
+{
+  "_id": {
+    "$oid": "6725b3e83ea30f902940d7cb"
+  },
+  "Nombre": "Carla Fernandez",
+  "Salario por Hora": 29,
+  "Horas Trabajadas": 148,
+  "Salario Bruto": 4292,
+  "Deduccion IGSS": 207.30360000000002,
+  "Deduccion ISR": 214.60000000000002,
+  "Salario Neto": 3870.0964
+},
+{
+  "_id": {
+    "$oid": "6725b3e83ea30f902940d7cc"
+  },
+  "Nombre": "Jorge Hernandez",
+  "Salario por Hora": 21,
+  "Horas Trabajadas": 172,
+  "Salario Bruto": 3612,
+  "Deduccion IGSS": 174.45960000000002,
+  "Deduccion ISR": 180.60000000000002,
+  "Salario Neto": 3256.9404
+},
+{
+  "_id": {
+    "$oid": "6725b3e83ea30f902940d7cd"
+  },
+  "Nombre": "Lucia Castro",
+  "Salario por Hora": 30.5,
+  "Horas Trabajadas": 160,
+  "Salario Bruto": 4880,
+  "Deduccion IGSS": 235.704,
+  "Deduccion ISR": 244,
+  "Salario Neto": 4400.296
+},
+{
+  "_id": {
+    "$oid": "6725b6815f5eaf264f8adffc"
+  },
+  "Nombre": "Juan Perez",
+  "Salario por Hora": 25.5,
+  "Horas Trabajadas": 160,
+  "Salario Bruto": 4080,
+  "Deduccion IGSS": 197.06400000000002,
+  "Deduccion ISR": 204,
+  "Salario Neto": 3678.936
+},
+{
+  "_id": {
+    "$oid": "6725b6815f5eaf264f8adffd"
+  },
+  "Nombre": "Maria Lopez",
+  "Salario por Hora": 30,
+  "Horas Trabajadas": 150,
+  "Salario Bruto": 4500,
+  "Deduccion IGSS": 217.35000000000002,
+  "Deduccion ISR": 225,
+  "Salario Neto": 4057.65
+},
+{
+  "_id": {
+    "$oid": "6725b6815f5eaf264f8adffe"
+  },
+  "Nombre": "Carlos Diaz",
+  "Salario por Hora": 22.75,
+  "Horas Trabajadas": 170,
+  "Salario Bruto": 3867.5,
+  "Deduccion IGSS": 186.80025,
+  "Deduccion ISR": 193.375,
+  "Salario Neto": 3487.3247499999998
+},
+{
+  "_id": {
+    "$oid": "6725b6815f5eaf264f8adfff"
+  },
+  "Nombre": "Ana Martinez",
+  "Salario por Hora": 28.5,
+  "Horas Trabajadas": 155,
+  "Salario Bruto": 4417.5,
+  "Deduccion IGSS": 213.36525,
+  "Deduccion ISR": 220.875,
+  "Salario Neto": 3983.25975
+},
+{
+  "_id": {
+    "$oid": "6725b6815f5eaf264f8ae000"
+  },
+  "Nombre": "Luis Torres",
+  "Salario por Hora": 27,
+  "Horas Trabajadas": 165,
+  "Salario Bruto": 4455,
+  "Deduccion IGSS": 215.1765,
+  "Deduccion ISR": 222.75,
+  "Salario Neto": 4017.0735
+},
+{
+  "_id": {
+    "$oid": "6725b6815f5eaf264f8ae001"
+  },
+  "Nombre": "Sofia Ramirez",
+  "Salario por Hora": 26.75,
+  "Horas Trabajadas": 158,
+  "Salario Bruto": 4226.5,
+  "Deduccion IGSS": 204.13995,
+  "Deduccion ISR": 211.32500000000002,
+  "Salario Neto": 3811.03505
+},
+{
+  "_id": {
+    "$oid": "6725b6815f5eaf264f8ae002"
+  },
+  "Nombre": "Miguel Gomez",
+  "Salario por Hora": 24.5,
+  "Horas Trabajadas": 162,
+  "Salario Bruto": 3969,
+  "Deduccion IGSS": 191.70270000000002,
+  "Deduccion ISR": 198.45000000000002,
+  "Salario Neto": 3578.8473
+},
+{
+  "_id": {
+    "$oid": "6725b6815f5eaf264f8ae003"
+  },
+  "Nombre": "Carla Fernandez",
+  "Salario por Hora": 29,
+  "Horas Trabajadas": 148,
+  "Salario Bruto": 4292,
+  "Deduccion IGSS": 207.30360000000002,
+  "Deduccion ISR": 214.60000000000002,
+  "Salario Neto": 3870.0964
+},
+{
+  "_id": {
+    "$oid": "6725b6815f5eaf264f8ae004"
+  },
+  "Nombre": "Jorge Hernandez",
+  "Salario por Hora": 21,
+  "Horas Trabajadas": 172,
+  "Salario Bruto": 3612,
+  "Deduccion IGSS": 174.45960000000002,
+  "Deduccion ISR": 180.60000000000002,
+  "Salario Neto": 3256.9404
+},
+{
+  "_id": {
+    "$oid": "6725b6815f5eaf264f8ae005"
+  },
+  "Nombre": "Lucia Castro",
+  "Salario por Hora": 30.5,
+  "Horas Trabajadas": 160,
+  "Salario Bruto": 4880,
+  "Deduccion IGSS": 235.704,
+  "Deduccion ISR": 244,
+  "Salario Neto": 4400.296
+},
+{
+  "_id": {
+    "$oid": "6725b6c049128f63bd30d7a6"
+  },
+  "Nombre": "Juan Perez",
+  "Salario por Hora": 25.5,
+  "Horas Trabajadas": 160,
+  "Salario Bruto": 4080,
+  "Deduccion IGSS": 197.06400000000002,
+  "Deduccion ISR": 204,
+  "Salario Neto": 3678.936
+},
+{
+  "_id": {
+    "$oid": "6725b6c049128f63bd30d7a7"
+  },
+  "Nombre": "Maria Lopez",
+  "Salario por Hora": 30,
+  "Horas Trabajadas": 150,
+  "Salario Bruto": 4500,
+  "Deduccion IGSS": 217.35000000000002,
+  "Deduccion ISR": 225,
+  "Salario Neto": 4057.65
+},
+{
+  "_id": {
+    "$oid": "6725b6c049128f63bd30d7a8"
+  },
+  "Nombre": "Carlos Diaz",
+  "Salario por Hora": 22.75,
+  "Horas Trabajadas": 170,
+  "Salario Bruto": 3867.5,
+  "Deduccion IGSS": 186.80025,
+  "Deduccion ISR": 193.375,
+  "Salario Neto": 3487.3247499999998
+},
+{
+  "_id": {
+    "$oid": "6725b6c049128f63bd30d7a9"
+  },
+  "Nombre": "Ana Martinez",
+  "Salario por Hora": 28.5,
+  "Horas Trabajadas": 155,
+  "Salario Bruto": 4417.5,
+  "Deduccion IGSS": 213.36525,
+  "Deduccion ISR": 220.875,
+  "Salario Neto": 3983.25975
+},
+{
+  "_id": {
+    "$oid": "6725b6c049128f63bd30d7aa"
+  },
+  "Nombre": "Luis Torres",
+  "Salario por Hora": 27,
+  "Horas Trabajadas": 165,
+  "Salario Bruto": 4455,
+  "Deduccion IGSS": 215.1765,
+  "Deduccion ISR": 222.75,
+  "Salario Neto": 4017.0735
+},
+{
+  "_id": {
+    "$oid": "6725b6c049128f63bd30d7ab"
+  },
+  "Nombre": "Sofia Ramirez",
+  "Salario por Hora": 26.75,
+  "Horas Trabajadas": 158,
+  "Salario Bruto": 4226.5,
+  "Deduccion IGSS": 204.13995,
+  "Deduccion ISR": 211.32500000000002,
+  "Salario Neto": 3811.03505
+},
+{
+  "_id": {
+    "$oid": "6725b6c049128f63bd30d7ac"
+  },
+  "Nombre": "Miguel Gomez",
+  "Salario por Hora": 24.5,
+  "Horas Trabajadas": 162,
+  "Salario Bruto": 3969,
+  "Deduccion IGSS": 191.70270000000002,
+  "Deduccion ISR": 198.45000000000002,
+  "Salario Neto": 3578.8473
+},
+{
+  "_id": {
+    "$oid": "6725b6c049128f63bd30d7ad"
+  },
+  "Nombre": "Carla Fernandez",
+  "Salario por Hora": 29,
+  "Horas Trabajadas": 148,
+  "Salario Bruto": 4292,
+  "Deduccion IGSS": 207.30360000000002,
+  "Deduccion ISR": 214.60000000000002,
+  "Salario Neto": 3870.0964
+},
+{
+  "_id": {
+    "$oid": "6725b6c049128f63bd30d7ae"
+  },
+  "Nombre": "Jorge Hernandez",
+  "Salario por Hora": 21,
+  "Horas Trabajadas": 172,
+  "Salario Bruto": 3612,
+  "Deduccion IGSS": 174.45960000000002,
+  "Deduccion ISR": 180.60000000000002,
+  "Salario Neto": 3256.9404
+},
+{
+  "_id": {
+    "$oid": "6725b6c049128f63bd30d7af"
+  },
+  "Nombre": "Lucia Castro",
+  "Salario por Hora": 30.5,
+  "Horas Trabajadas": 160,
+  "Salario Bruto": 4880,
+  "Deduccion IGSS": 235.704,
+  "Deduccion ISR": 244,
+  "Salario Neto": 4400.296
+},
+{
+  "_id": {
+    "$oid": "6725b74d24795b225478289c"
+  },
+  "Nombre": "Juan Perez",
+  "Salario por Hora": 25.5,
+  "Horas Trabajadas": 160,
+  "Salario Bruto": 4080,
+  "Deduccion IGSS": 197.06400000000002,
+  "Deduccion ISR": 204,
+  "Salario Neto": 3678.936
+},
+{
+  "_id": {
+    "$oid": "6725b74d24795b225478289d"
+  },
+  "Nombre": "Maria Lopez",
+  "Salario por Hora": 30,
+  "Horas Trabajadas": 150,
+  "Salario Bruto": 4500,
+  "Deduccion IGSS": 217.35000000000002,
+  "Deduccion ISR": 225,
+  "Salario Neto": 4057.65
+},
+{
+  "_id": {
+    "$oid": "6725b74d24795b225478289e"
+  },
+  "Nombre": "Carlos Diaz",
+  "Salario por Hora": 22.75,
+  "Horas Trabajadas": 170,
+  "Salario Bruto": 3867.5,
+  "Deduccion IGSS": 186.80025,
+  "Deduccion ISR": 193.375,
+  "Salario Neto": 3487.3247499999998
+},
+{
+  "_id": {
+    "$oid": "6725b74d24795b225478289f"
+  },
+  "Nombre": "Ana Martinez",
+  "Salario por Hora": 28.5,
+  "Horas Trabajadas": 155,
+  "Salario Bruto": 4417.5,
+  "Deduccion IGSS": 213.36525,
+  "Deduccion ISR": 220.875,
+  "Salario Neto": 3983.25975
+},
+{
+  "_id": {
+    "$oid": "6725b74d24795b22547828a0"
+  },
+  "Nombre": "Luis Torres",
+  "Salario por Hora": 27,
+  "Horas Trabajadas": 165,
+  "Salario Bruto": 4455,
+  "Deduccion IGSS": 215.1765,
+  "Deduccion ISR": 222.75,
+  "Salario Neto": 4017.0735
+},
+{
+  "_id": {
+    "$oid": "6725b74d24795b22547828a1"
+  },
+  "Nombre": "Sofia Ramirez",
+  "Salario por Hora": 26.75,
+  "Horas Trabajadas": 158,
+  "Salario Bruto": 4226.5,
+  "Deduccion IGSS": 204.13995,
+  "Deduccion ISR": 211.32500000000002,
+  "Salario Neto": 3811.03505
+},
+{
+  "_id": {
+    "$oid": "6725b74d24795b22547828a2"
+  },
+  "Nombre": "Miguel Gomez",
+  "Salario por Hora": 24.5,
+  "Horas Trabajadas": 162,
+  "Salario Bruto": 3969,
+  "Deduccion IGSS": 191.70270000000002,
+  "Deduccion ISR": 198.45000000000002,
+  "Salario Neto": 3578.8473
+},
+{
+  "_id": {
+    "$oid": "6725b74d24795b22547828a3"
+  },
+  "Nombre": "Carla Fernandez",
+  "Salario por Hora": 29,
+  "Horas Trabajadas": 148,
+  "Salario Bruto": 4292,
+  "Deduccion IGSS": 207.30360000000002,
+  "Deduccion ISR": 214.60000000000002,
+  "Salario Neto": 3870.0964
+},
+{
+  "_id": {
+    "$oid": "6725b74d24795b22547828a4"
+  },
+  "Nombre": "Jorge Hernandez",
+  "Salario por Hora": 21,
+  "Horas Trabajadas": 172,
+  "Salario Bruto": 3612,
+  "Deduccion IGSS": 174.45960000000002,
+  "Deduccion ISR": 180.60000000000002,
+  "Salario Neto": 3256.9404
+},
+{
+  "_id": {
+    "$oid": "6725b74d24795b22547828a5"
+  },
+  "Nombre": "Lucia Castro",
+  "Salario por Hora": 30.5,
+  "Horas Trabajadas": 160,
+  "Salario Bruto": 4880,
+  "Deduccion IGSS": 235.704,
+  "Deduccion ISR": 244,
+  "Salario Neto": 4400.296
+},
+{
+  "_id": {
+    "$oid": "6725b9139fc6ff9a483db3c2"
+  },
+  "Nombre": "Juan Perez",
+  "Salario por Hora": 25.5,
+  "Horas Trabajadas": 160,
+  "Salario Bruto": 4080,
+  "Deduccion IGSS": 197.06400000000002,
+  "Deduccion ISR": 204,
+  "Salario Neto": 3678.936
+},
+{
+  "_id": {
+    "$oid": "6725b9139fc6ff9a483db3c3"
+  },
+  "Nombre": "Maria Lopez",
+  "Salario por Hora": 30,
+  "Horas Trabajadas": 150,
+  "Salario Bruto": 4500,
+  "Deduccion IGSS": 217.35000000000002,
+  "Deduccion ISR": 225,
+  "Salario Neto": 4057.65
+},
+{
+  "_id": {
+    "$oid": "6725b9139fc6ff9a483db3c4"
+  },
+  "Nombre": "Carlos Diaz",
+  "Salario por Hora": 22.75,
+  "Horas Trabajadas": 170,
+  "Salario Bruto": 3867.5,
+  "Deduccion IGSS": 186.80025,
+  "Deduccion ISR": 193.375,
+  "Salario Neto": 3487.3247499999998
+},
+{
+  "_id": {
+    "$oid": "6725b9139fc6ff9a483db3c5"
+  },
+  "Nombre": "Ana Martinez",
+  "Salario por Hora": 28.5,
+  "Horas Trabajadas": 155,
+  "Salario Bruto": 4417.5,
+  "Deduccion IGSS": 213.36525,
+  "Deduccion ISR": 220.875,
+  "Salario Neto": 3983.25975
+},
+{
+  "_id": {
+    "$oid": "6725b9139fc6ff9a483db3c6"
+  },
+  "Nombre": "Luis Torres",
+  "Salario por Hora": 27,
+  "Horas Trabajadas": 165,
+  "Salario Bruto": 4455,
+  "Deduccion IGSS": 215.1765,
+  "Deduccion ISR": 222.75,
+  "Salario Neto": 4017.0735
+},
+{
+  "_id": {
+    "$oid": "6725b9139fc6ff9a483db3c7"
+  },
+  "Nombre": "Sofia Ramirez",
+  "Salario por Hora": 26.75,
+  "Horas Trabajadas": 158,
+  "Salario Bruto": 4226.5,
+  "Deduccion IGSS": 204.13995,
+  "Deduccion ISR": 211.32500000000002,
+  "Salario Neto": 3811.03505
+},
+{
+  "_id": {
+    "$oid": "6725b9139fc6ff9a483db3c8"
+  },
+  "Nombre": "Miguel Gomez",
+  "Salario por Hora": 24.5,
+  "Horas Trabajadas": 162,
+  "Salario Bruto": 3969,
+  "Deduccion IGSS": 191.70270000000002,
+  "Deduccion ISR": 198.45000000000002,
+  "Salario Neto": 3578.8473
+},
+{
+  "_id": {
+    "$oid": "6725b9139fc6ff9a483db3c9"
+  },
+  "Nombre": "Carla Fernandez",
+  "Salario por Hora": 29,
+  "Horas Trabajadas": 148,
+  "Salario Bruto": 4292,
+  "Deduccion IGSS": 207.30360000000002,
+  "Deduccion ISR": 214.60000000000002,
+  "Salario Neto": 3870.0964
+},
+{
+  "_id": {
+    "$oid": "6725b9139fc6ff9a483db3ca"
+  },
+  "Nombre": "Jorge Hernandez",
+  "Salario por Hora": 21,
+  "Horas Trabajadas": 172,
+  "Salario Bruto": 3612,
+  "Deduccion IGSS": 174.45960000000002,
+  "Deduccion ISR": 180.60000000000002,
+  "Salario Neto": 3256.9404
+},
+{
+  "_id": {
+    "$oid": "6725b9139fc6ff9a483db3cb"
+  },
+  "Nombre": "Lucia Castro",
+  "Salario por Hora": 30.5,
+  "Horas Trabajadas": 160,
+  "Salario Bruto": 4880,
+  "Deduccion IGSS": 235.704,
+  "Deduccion ISR": 244,
+  "Salario Neto": 4400.296
+},
+{
+  "_id": {
+    "$oid": "6725b94aa2c34c85f0e4f653"
+  },
+  "Nombre": "Juan Perez",
+  "Salario por Hora": 25.5,
+  "Horas Trabajadas": 160,
+  "Salario Bruto": 4080,
+  "Deduccion IGSS": 197.06400000000002,
+  "Deduccion ISR": 204,
+  "Salario Neto": 3678.936
+},
+{
+  "_id": {
+    "$oid": "6725b94aa2c34c85f0e4f654"
+  },
+  "Nombre": "Maria Lopez",
+  "Salario por Hora": 30,
+  "Horas Trabajadas": 150,
+  "Salario Bruto": 4500,
+  "Deduccion IGSS": 217.35000000000002,
+  "Deduccion ISR": 225,
+  "Salario Neto": 4057.65
+},
+{
+  "_id": {
+    "$oid": "6725b94aa2c34c85f0e4f655"
+  },
+  "Nombre": "Carlos Diaz",
+  "Salario por Hora": 22.75,
+  "Horas Trabajadas": 170,
+  "Salario Bruto": 3867.5,
+  "Deduccion IGSS": 186.80025,
+  "Deduccion ISR": 193.375,
+  "Salario Neto": 3487.3247499999998
+},
+{
+  "_id": {
+    "$oid": "6725b94aa2c34c85f0e4f656"
+  },
+  "Nombre": "Ana Martinez",
+  "Salario por Hora": 28.5,
+  "Horas Trabajadas": 155,
+  "Salario Bruto": 4417.5,
+  "Deduccion IGSS": 213.36525,
+  "Deduccion ISR": 220.875,
+  "Salario Neto": 3983.25975
+},
+{
+  "_id": {
+    "$oid": "6725b94aa2c34c85f0e4f657"
+  },
+  "Nombre": "Luis Torres",
+  "Salario por Hora": 27,
+  "Horas Trabajadas": 165,
+  "Salario Bruto": 4455,
+  "Deduccion IGSS": 215.1765,
+  "Deduccion ISR": 222.75,
+  "Salario Neto": 4017.0735
+},
+{
+  "_id": {
+    "$oid": "6725b94aa2c34c85f0e4f658"
+  },
+  "Nombre": "Sofia Ramirez",
+  "Salario por Hora": 26.75,
+  "Horas Trabajadas": 158,
+  "Salario Bruto": 4226.5,
+  "Deduccion IGSS": 204.13995,
+  "Deduccion ISR": 211.32500000000002,
+  "Salario Neto": 3811.03505
+},
+{
+  "_id": {
+    "$oid": "6725b94aa2c34c85f0e4f659"
+  },
+  "Nombre": "Miguel Gomez",
+  "Salario por Hora": 24.5,
+  "Horas Trabajadas": 162,
+  "Salario Bruto": 3969,
+  "Deduccion IGSS": 191.70270000000002,
+  "Deduccion ISR": 198.45000000000002,
+  "Salario Neto": 3578.8473
+},
+{
+  "_id": {
+    "$oid": "6725b94aa2c34c85f0e4f65a"
+  },
+  "Nombre": "Carla Fernandez",
+  "Salario por Hora": 29,
+  "Horas Trabajadas": 148,
+  "Salario Bruto": 4292,
+  "Deduccion IGSS": 207.30360000000002,
+  "Deduccion ISR": 214.60000000000002,
+  "Salario Neto": 3870.0964
+},
+{
+  "_id": {
+    "$oid": "6725b94aa2c34c85f0e4f65b"
+  },
+  "Nombre": "Jorge Hernandez",
+  "Salario por Hora": 21,
+  "Horas Trabajadas": 172,
+  "Salario Bruto": 3612,
+  "Deduccion IGSS": 174.45960000000002,
+  "Deduccion ISR": 180.60000000000002,
+  "Salario Neto": 3256.9404
+},
+{
+  "_id": {
+    "$oid": "6725b94aa2c34c85f0e4f65c"
+  },
+  "Nombre": "Lucia Castro",
+  "Salario por Hora": 30.5,
+  "Horas Trabajadas": 160,
+  "Salario Bruto": 4880,
+  "Deduccion IGSS": 235.704,
+  "Deduccion ISR": 244,
+  "Salario Neto": 4400.296
+},
+{
+  "_id": {
+    "$oid": "6725b9ee6714ca6116c10166"
+  },
+  "Nombre": "Juan Perez",
+  "Salario por Hora": 25.5,
+  "Horas Trabajadas": 160,
+  "Salario Bruto": 4080,
+  "Deduccion IGSS": 197.06400000000002,
+  "Deduccion ISR": 204,
+  "Salario Neto": 3678.936
+},
+{
+  "_id": {
+    "$oid": "6725b9ee6714ca6116c10167"
+  },
+  "Nombre": "Maria Lopez",
+  "Salario por Hora": 30,
+  "Horas Trabajadas": 150,
+  "Salario Bruto": 4500,
+  "Deduccion IGSS": 217.35000000000002,
+  "Deduccion ISR": 225,
+  "Salario Neto": 4057.65
+},
+{
+  "_id": {
+    "$oid": "6725b9ee6714ca6116c10168"
+  },
+  "Nombre": "Carlos Diaz",
+  "Salario por Hora": 22.75,
+  "Horas Trabajadas": 170,
+  "Salario Bruto": 3867.5,
+  "Deduccion IGSS": 186.80025,
+  "Deduccion ISR": 193.375,
+  "Salario Neto": 3487.3247499999998
+},
+{
+  "_id": {
+    "$oid": "6725b9ee6714ca6116c10169"
+  },
+  "Nombre": "Ana Martinez",
+  "Salario por Hora": 28.5,
+  "Horas Trabajadas": 155,
+  "Salario Bruto": 4417.5,
+  "Deduccion IGSS": 213.36525,
+  "Deduccion ISR": 220.875,
+  "Salario Neto": 3983.25975
+},
+{
+  "_id": {
+    "$oid": "6725b9ee6714ca6116c1016a"
+  },
+  "Nombre": "Luis Torres",
+  "Salario por Hora": 27,
+  "Horas Trabajadas": 165,
+  "Salario Bruto": 4455,
+  "Deduccion IGSS": 215.1765,
+  "Deduccion ISR": 222.75,
+  "Salario Neto": 4017.0735
+},
+{
+  "_id": {
+    "$oid": "6725b9ee6714ca6116c1016b"
+  },
+  "Nombre": "Sofia Ramirez",
+  "Salario por Hora": 26.75,
+  "Horas Trabajadas": 158,
+  "Salario Bruto": 4226.5,
+  "Deduccion IGSS": 204.13995,
+  "Deduccion ISR": 211.32500000000002,
+  "Salario Neto": 3811.03505
+},
+{
+  "_id": {
+    "$oid": "6725b9ee6714ca6116c1016c"
+  },
+  "Nombre": "Miguel Gomez",
+  "Salario por Hora": 24.5,
+  "Horas Trabajadas": 162,
+  "Salario Bruto": 3969,
+  "Deduccion IGSS": 191.70270000000002,
+  "Deduccion ISR": 198.45000000000002,
+  "Salario Neto": 3578.8473
+},
+{
+  "_id": {
+    "$oid": "6725b9ee6714ca6116c1016d"
+  },
+  "Nombre": "Carla Fernandez",
+  "Salario por Hora": 29,
+  "Horas Trabajadas": 148,
+  "Salario Bruto": 4292,
+  "Deduccion IGSS": 207.30360000000002,
+  "Deduccion ISR": 214.60000000000002,
+  "Salario Neto": 3870.0964
+},
+{
+  "_id": {
+    "$oid": "6725b9ee6714ca6116c1016e"
+  },
+  "Nombre": "Jorge Hernandez",
+  "Salario por Hora": 21,
+  "Horas Trabajadas": 172,
+  "Salario Bruto": 3612,
+  "Deduccion IGSS": 174.45960000000002,
+  "Deduccion ISR": 180.60000000000002,
+  "Salario Neto": 3256.9404
+},
+{
+  "_id": {
+    "$oid": "6725b9ee6714ca6116c1016f"
+  },
+  "Nombre": "Lucia Castro",
+  "Salario por Hora": 30.5,
+  "Horas Trabajadas": 160,
+  "Salario Bruto": 4880,
+  "Deduccion IGSS": 235.704,
+  "Deduccion ISR": 244,
+  "Salario Neto": 4400.296
+},
+{
+  "_id": {
+    "$oid": "6725ba056714ca6116c1017a"
+  },
+  "Nombre": "Juan Perez",
+  "Salario por Hora": 25.5,
+  "Horas Trabajadas": 160,
+  "Salario Bruto": 4080,
+  "Deduccion IGSS": 197.06400000000002,
+  "Deduccion ISR": 204,
+  "Salario Neto": 3678.936
+},
+{
+  "_id": {
+    "$oid": "6725ba056714ca6116c1017b"
+  },
+  "Nombre": "Maria Lopez",
+  "Salario por Hora": 30,
+  "Horas Trabajadas": 150,
+  "Salario Bruto": 4500,
+  "Deduccion IGSS": 217.35000000000002,
+  "Deduccion ISR": 225,
+  "Salario Neto": 4057.65
+},
+{
+  "_id": {
+    "$oid": "6725ba056714ca6116c1017c"
+  },
+  "Nombre": "Carlos Diaz",
+  "Salario por Hora": 22.75,
+  "Horas Trabajadas": 170,
+  "Salario Bruto": 3867.5,
+  "Deduccion IGSS": 186.80025,
+  "Deduccion ISR": 193.375,
+  "Salario Neto": 3487.3247499999998
+},
+{
+  "_id": {
+    "$oid": "6725ba056714ca6116c1017d"
+  },
+  "Nombre": "Ana Martinez",
+  "Salario por Hora": 28.5,
+  "Horas Trabajadas": 155,
+  "Salario Bruto": 4417.5,
+  "Deduccion IGSS": 213.36525,
+  "Deduccion ISR": 220.875,
+  "Salario Neto": 3983.25975
+},
+{
+  "_id": {
+    "$oid": "6725ba056714ca6116c1017e"
+  },
+  "Nombre": "Luis Torres",
+  "Salario por Hora": 27,
+  "Horas Trabajadas": 165,
+  "Salario Bruto": 4455,
+  "Deduccion IGSS": 215.1765,
+  "Deduccion ISR": 222.75,
+  "Salario Neto": 4017.0735
+},
+{
+  "_id": {
+    "$oid": "6725ba056714ca6116c1017f"
+  },
+  "Nombre": "Sofia Ramirez",
+  "Salario por Hora": 26.75,
+  "Horas Trabajadas": 158,
+  "Salario Bruto": 4226.5,
+  "Deduccion IGSS": 204.13995,
+  "Deduccion ISR": 211.32500000000002,
+  "Salario Neto": 3811.03505
+},
+{
+  "_id": {
+    "$oid": "6725ba056714ca6116c10180"
+  },
+  "Nombre": "Miguel Gomez",
+  "Salario por Hora": 24.5,
+  "Horas Trabajadas": 162,
+  "Salario Bruto": 3969,
+  "Deduccion IGSS": 191.70270000000002,
+  "Deduccion ISR": 198.45000000000002,
+  "Salario Neto": 3578.8473
+},
+{
+  "_id": {
+    "$oid": "6725ba056714ca6116c10181"
+  },
+  "Nombre": "Carla Fernandez",
+  "Salario por Hora": 29,
+  "Horas Trabajadas": 148,
+  "Salario Bruto": 4292,
+  "Deduccion IGSS": 207.30360000000002,
+  "Deduccion ISR": 214.60000000000002,
+  "Salario Neto": 3870.0964
+},
+{
+  "_id": {
+    "$oid": "6725ba056714ca6116c10182"
+  },
+  "Nombre": "Jorge Hernandez",
+  "Salario por Hora": 21,
+  "Horas Trabajadas": 172,
+  "Salario Bruto": 3612,
+  "Deduccion IGSS": 174.45960000000002,
+  "Deduccion ISR": 180.60000000000002,
+  "Salario Neto": 3256.9404
+},
+{
+  "_id": {
+    "$oid": "6725ba056714ca6116c10183"
+  },
+  "Nombre": "Lucia Castro",
+  "Salario por Hora": 30.5,
+  "Horas Trabajadas": 160,
+  "Salario Bruto": 4880,
+  "Deduccion IGSS": 235.704,
+  "Deduccion ISR": 244,
+  "Salario Neto": 4400.296
+},
+{
+  "_id": {
+    "$oid": "6725bc5c225b89ad65946c9f"
+  },
+  "Nombre": "Juan Perez",
+  "Salario por Hora": 25.5,
+  "Horas Trabajadas": 160,
+  "Salario Bruto": 4080,
+  "Deduccion IGSS": 197.06400000000002,
+  "Deduccion ISR": 204,
+  "Salario Neto": 3678.936
+},
+{
+  "_id": {
+    "$oid": "6725bc5c225b89ad65946ca0"
+  },
+  "Nombre": "Maria Lopez",
+  "Salario por Hora": 30,
+  "Horas Trabajadas": 150,
+  "Salario Bruto": 4500,
+  "Deduccion IGSS": 217.35000000000002,
+  "Deduccion ISR": 225,
+  "Salario Neto": 4057.65
+},
+{
+  "_id": {
+    "$oid": "6725bc5c225b89ad65946ca1"
+  },
+  "Nombre": "Carlos Diaz",
+  "Salario por Hora": 22.75,
+  "Horas Trabajadas": 170,
+  "Salario Bruto": 3867.5,
+  "Deduccion IGSS": 186.80025,
+  "Deduccion ISR": 193.375,
+  "Salario Neto": 3487.3247499999998
+},
+{
+  "_id": {
+    "$oid": "6725bc5c225b89ad65946ca2"
+  },
+  "Nombre": "Ana Martinez",
+  "Salario por Hora": 28.5,
+  "Horas Trabajadas": 155,
+  "Salario Bruto": 4417.5,
+  "Deduccion IGSS": 213.36525,
+  "Deduccion ISR": 220.875,
+  "Salario Neto": 3983.25975
+},
+{
+  "_id": {
+    "$oid": "6725bc5c225b89ad65946ca3"
+  },
+  "Nombre": "Luis Torres",
+  "Salario por Hora": 27,
+  "Horas Trabajadas": 165,
+  "Salario Bruto": 4455,
+  "Deduccion IGSS": 215.1765,
+  "Deduccion ISR": 222.75,
+  "Salario Neto": 4017.0735
+},
+{
+  "_id": {
+    "$oid": "6725bc5c225b89ad65946ca4"
+  },
+  "Nombre": "Sofia Ramirez",
+  "Salario por Hora": 26.75,
+  "Horas Trabajadas": 158,
+  "Salario Bruto": 4226.5,
+  "Deduccion IGSS": 204.13995,
+  "Deduccion ISR": 211.32500000000002,
+  "Salario Neto": 3811.03505
+},
+{
+  "_id": {
+    "$oid": "6725bc5c225b89ad65946ca5"
+  },
+  "Nombre": "Miguel Gomez",
+  "Salario por Hora": 24.5,
+  "Horas Trabajadas": 162,
+  "Salario Bruto": 3969,
+  "Deduccion IGSS": 191.70270000000002,
+  "Deduccion ISR": 198.45000000000002,
+  "Salario Neto": 3578.8473
+},
+{
+  "_id": {
+    "$oid": "6725bc5c225b89ad65946ca6"
+  },
+  "Nombre": "Carla Fernandez",
+  "Salario por Hora": 29,
+  "Horas Trabajadas": 148,
+  "Salario Bruto": 4292,
+  "Deduccion IGSS": 207.30360000000002,
+  "Deduccion ISR": 214.60000000000002,
+  "Salario Neto": 3870.0964
+},
+{
+  "_id": {
+    "$oid": "6725bc5c225b89ad65946ca7"
+  },
+  "Nombre": "Jorge Hernandez",
+  "Salario por Hora": 21,
+  "Horas Trabajadas": 172,
+  "Salario Bruto": 3612,
+  "Deduccion IGSS": 174.45960000000002,
+  "Deduccion ISR": 180.60000000000002,
+  "Salario Neto": 3256.9404
+},
+{
+  "_id": {
+    "$oid": "6725bc5c225b89ad65946ca8"
+  },
+  "Nombre": "Lucia Castro",
+  "Salario por Hora": 30.5,
+  "Horas Trabajadas": 160,
+  "Salario Bruto": 4880,
+  "Deduccion IGSS": 235.704,
+  "Deduccion ISR": 244,
+  "Salario Neto": 4400.296
+},
+{
+  "_id": {
+    "$oid": "6725bd544bda2751b3bf8c7a"
+  },
+  "Nombre": "Juan Perez",
+  "Salario por Hora": 25.5,
+  "Horas Trabajadas": 160,
+  "Salario Bruto": 4080,
+  "Deduccion IGSS": 197.06400000000002,
+  "Deduccion ISR": 204,
+  "Salario Neto": 3678.936
+},
+{
+  "_id": {
+    "$oid": "6725bd544bda2751b3bf8c7b"
+  },
+  "Nombre": "Maria Lopez",
+  "Salario por Hora": 30,
+  "Horas Trabajadas": 150,
+  "Salario Bruto": 4500,
+  "Deduccion IGSS": 217.35000000000002,
+  "Deduccion ISR": 225,
+  "Salario Neto": 4057.65
+},
+{
+  "_id": {
+    "$oid": "6725bd544bda2751b3bf8c7c"
+  },
+  "Nombre": "Carlos Diaz",
+  "Salario por Hora": 22.75,
+  "Horas Trabajadas": 170,
+  "Salario Bruto": 3867.5,
+  "Deduccion IGSS": 186.80025,
+  "Deduccion ISR": 193.375,
+  "Salario Neto": 3487.3247499999998
+},
+{
+  "_id": {
+    "$oid": "6725bd544bda2751b3bf8c7d"
+  },
+  "Nombre": "Ana Martinez",
+  "Salario por Hora": 28.5,
+  "Horas Trabajadas": 155,
+  "Salario Bruto": 4417.5,
+  "Deduccion IGSS": 213.36525,
+  "Deduccion ISR": 220.875,
+  "Salario Neto": 3983.25975
+},
+{
+  "_id": {
+    "$oid": "6725bd544bda2751b3bf8c7e"
+  },
+  "Nombre": "Luis Torres",
+  "Salario por Hora": 27,
+  "Horas Trabajadas": 165,
+  "Salario Bruto": 4455,
+  "Deduccion IGSS": 215.1765,
+  "Deduccion ISR": 222.75,
+  "Salario Neto": 4017.0735
+},
+{
+  "_id": {
+    "$oid": "6725bd544bda2751b3bf8c7f"
+  },
+  "Nombre": "Sofia Ramirez",
+  "Salario por Hora": 26.75,
+  "Horas Trabajadas": 158,
+  "Salario Bruto": 4226.5,
+  "Deduccion IGSS": 204.13995,
+  "Deduccion ISR": 211.32500000000002,
+  "Salario Neto": 3811.03505
+},
+{
+  "_id": {
+    "$oid": "6725bd544bda2751b3bf8c80"
+  },
+  "Nombre": "Miguel Gomez",
+  "Salario por Hora": 24.5,
+  "Horas Trabajadas": 162,
+  "Salario Bruto": 3969,
+  "Deduccion IGSS": 191.70270000000002,
+  "Deduccion ISR": 198.45000000000002,
+  "Salario Neto": 3578.8473
+},
+{
+  "_id": {
+    "$oid": "6725bd544bda2751b3bf8c81"
+  },
+  "Nombre": "Carla Fernandez",
+  "Salario por Hora": 29,
+  "Horas Trabajadas": 148,
+  "Salario Bruto": 4292,
+  "Deduccion IGSS": 207.30360000000002,
+  "Deduccion ISR": 214.60000000000002,
+  "Salario Neto": 3870.0964
+},
+{
+  "_id": {
+    "$oid": "6725bd544bda2751b3bf8c82"
+  },
+  "Nombre": "Jorge Hernandez",
+  "Salario por Hora": 21,
+  "Horas Trabajadas": 172,
+  "Salario Bruto": 3612,
+  "Deduccion IGSS": 174.45960000000002,
+  "Deduccion ISR": 180.60000000000002,
+  "Salario Neto": 3256.9404
+},
+{
+  "_id": {
+    "$oid": "6725bd544bda2751b3bf8c83"
+  },
+  "Nombre": "Lucia Castro",
+  "Salario por Hora": 30.5,
+  "Horas Trabajadas": 160,
+  "Salario Bruto": 4880,
+  "Deduccion IGSS": 235.704,
+  "Deduccion ISR": 244,
+  "Salario Neto": 4400.296
+}]

@@ -3,14 +3,24 @@
 <head>
     <meta charset="UTF-8">
     <title>Resultados de Nómina</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles_Resultados.css') }}">
 </head>
 <body>
     <h1>Resultados de Nómina</h1>
 
-    <table border="1">
+    <!-- Botones de navegación -->
+    <div style="text-align: center; margin-bottom: 20px;">
+        <form action="{{ url_for('index') }}" method="GET" style="display:inline;">
+            <button type="submit">Regresar al Inicio</button>
+        </form>
+        <form action="{{ url_for('view_raw_data') }}" method="GET" style="display:inline;">
+            <button type="submit">Regresar a Empleados</button>
+        </form>
+    </div>
+
+    <table>
         <thead>
             <tr>
-                <!-- Asegúrate de que todos los nombres de las columnas coincidan con las claves de los datos -->
                 <th>Nombre</th>
                 <th>Salario por Hora</th>
                 <th>Horas Trabajadas</th>
@@ -25,11 +35,11 @@
                 <tr>
                     <td>{{ row.Nombre }}</td>
                     <td>{{ row['Salario por Hora'] }}</td>
-                    <td>{{ row['Horas Trabajadas'] }}</td>
-                    <td>{{ row['Salario Bruto'] }}</td>
-                    <td>{{ row['Deduccion IGSS'] }}</td>
-                    <td>{{ row['Deduccion ISR']}}</td>
-                    <td>{{ row['Salario Neto'] }}</td>
+                    <td>{{ row['Horas Trabajadas'] | round(3) }}</td>
+                    <td>{{ row['Salario Bruto'] | round(3) }}</td>
+                    <td>{{ row['Deduccion IGSS'] | round(3) }}</td>
+                    <td>{{ row['Deduccion ISR'] | round(3) }}</td>
+                    <td>{{ row['Salario Neto'] | round(3) }}</td>
                 </tr>
             {% endfor %}
         </tbody>

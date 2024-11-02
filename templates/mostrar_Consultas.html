@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Resultados de Agregación</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles_Consultas.css') }}">
+</head>
+<body>
+    <h1>Resultados de Agregación de Nómina</h1>
+
+    <form action="{{ url_for('resultados_agregacion') }}" method="GET" style="margin-bottom: 20px;">
+        <button type="submit">Actualizar Resultados</button>
+    </form>
+
+    <h2>Total y Promedio de Horas Trabajadas</h2>
+    <p>Total Horas Trabajadas: {{ resultados['horas']['total_horas_trabajadas'] }}</p>
+    <p>Promedio Horas Trabajadas: {{ resultados['horas']['promedio_horas_trabajadas'] }}</p>
+
+    <h2>Total y Promedio de Salario por Hora</h2>
+    <p>Total Salario por Hora: {{ resultados['salario_hora']['total_salario_por_hora'] }}</p>
+    <p>Promedio Salario por Hora: {{ resultados['salario_hora']['promedio_salario_por_hora'] }}</p>
+
+    <h2>Total y Promedio de Salario Bruto</h2>
+    <p>Total Salario Bruto: {{ resultados['salario_bruto']['total_salario_bruto'] }}</p>
+    <p>Promedio Salario Bruto: {{ resultados['salario_bruto']['promedio_salario_bruto'] }}</p>
+
+    <h2>Total y Promedio de Salario Neto</h2>
+    <p>Total Salario Neto: {{ resultados['salario_neto']['total_salario_neto'] }}</p>
+    <p>Promedio Salario Neto: {{ resultados['salario_neto']['promedio_salario_neto'] }}</p>
+
+    <h2>Salario Neto Más Alto y Más Bajo</h2>
+    <p>Salario Neto Más Alto: {{ resultados['salario_neto_min_max']['salario_neto_mas_alto'] }}</p>
+    <p>Salario Neto Más Bajo: {{ resultados['salario_neto_min_max']['salario_neto_mas_bajo'] }}</p>
+
+    <h2>Mediana de Salario Neto</h2>
+    <p>Mediana Salario Neto: {{ resultados['salario_neto_mediana'] }}</p>
+
+    <h2>Distribución de Deducciones</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Tipo de Deducción</th>
+                <th>Total Deducciones</th>
+                <th>Promedio Deducción</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for deduccion in resultados['deducciones'] %}
+                <tr>
+                    <td>{{ deduccion['_id'] }}</td>
+                    <td>{{ deduccion['total_deducciones'] }}</td>
+                    <td>{{ deduccion['promedio_deduccion'] }}</td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+
+    <!-- Botón para regresar al inicio -->
+    <div class="center">
+        <form action="{{ url_for('index') }}" method="GET" style="display:inline;">
+            <button type="submit">Regresar al Inicio</button>
+        </form>
+        <form action="{{ url_for('view_raw_data') }}" method="GET" style="display:inline;">
+            <button type="submit">Regresar a los Empleados</button>
+        </form>
+    </div>
+</body>
+</html>

@@ -1,1 +1,0 @@
-# Practica7_LeonelGonzalez

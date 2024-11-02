@@ -12,8 +12,11 @@ def calculate_nomina(data):
     return data
 
 def calculate_isr(salario_bruto):
-    # Aquí se implementa la lógica de ISR según las tablas vigentes de Guatemala
-    if  salario_bruto <= 25000:
-        return salario_bruto * 0.05
-    elif salario_bruto <= 9000:
-        return (salario_bruto * 0.07)+15000
+    # Implementación de lógica ISR basada en las tablas comunes en Guatemala (actualízalas según sea necesario)
+    if salario_bruto <= 25000:
+        return salario_bruto * 0.05  # ISR de 5% para ingresos menores o iguales a 25,000
+    elif salario_bruto <= 50000:
+        return (salario_bruto - 25000) * 0.07 + 1250  # 7% sobre ingresos mayores a 25,000 hasta 50,000
+    else:
+        return (salario_bruto - 50000) * 0.10 + 3000  # 10% para ingresos mayores a 50,000
+

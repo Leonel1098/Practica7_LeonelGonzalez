@@ -1,0 +1,1440 @@
+[{
+  "_id": {
+    "$oid": "6725a8be1370c30bd84759c4"
+  },
+  "Nombre": "Juan Perez",
+  "Salario por Hora": 25.5,
+  "Horas Trabajadas": 160
+},
+{
+  "_id": {
+    "$oid": "6725a8be1370c30bd84759c5"
+  },
+  "Nombre": "Maria Lopez",
+  "Salario por Hora": 30,
+  "Horas Trabajadas": 150
+},
+{
+  "_id": {
+    "$oid": "6725a8be1370c30bd84759c6"
+  },
+  "Nombre": "Carlos Diaz",
+  "Salario por Hora": 22.75,
+  "Horas Trabajadas": 170
+},
+{
+  "_id": {
+    "$oid": "6725a8be1370c30bd84759c7"
+  },
+  "Nombre": "Ana Martinez",
+  "Salario por Hora": 28.5,
+  "Horas Trabajadas": 155
+},
+{
+  "_id": {
+    "$oid": "6725a8be1370c30bd84759c8"
+  },
+  "Nombre": "Luis Torres",
+  "Salario por Hora": 27,
+  "Horas Trabajadas": 165
+},
+{
+  "_id": {
+    "$oid": "6725a8be1370c30bd84759c9"
+  },
+  "Nombre": "Sofia Ramirez",
+  "Salario por Hora": 26.75,
+  "Horas Trabajadas": 158
+},
+{
+  "_id": {
+    "$oid": "6725a8be1370c30bd84759ca"
+  },
+  "Nombre": "Miguel Gomez",
+  "Salario por Hora": 24.5,
+  "Horas Trabajadas": 162
+},
+{
+  "_id": {
+    "$oid": "6725a8be1370c30bd84759cb"
+  },
+  "Nombre": "Carla Fernandez",
+  "Salario por Hora": 29,
+  "Horas Trabajadas": 148
+},
+{
+  "_id": {
+    "$oid": "6725a8be1370c30bd84759cc"
+  },
+  "Nombre": "Jorge Hernandez",
+  "Salario por Hora": 21,
+  "Horas Trabajadas": 172
+},
+{
+  "_id": {
+    "$oid": "6725a8be1370c30bd84759cd"
+  },
+  "Nombre": "Lucia Castro",
+  "Salario por Hora": 30.5,
+  "Horas Trabajadas": 160
+},
+{
+  "_id": {
+    "$oid": "6725a91ed5d775d0935764e6"
+  },
+  "Nombre": "Juan Perez",
+  "Salario por Hora": 25.5,
+  "Horas Trabajadas": 160
+},
+{
+  "_id": {
+    "$oid": "6725a91ed5d775d0935764e7"
+  },
+  "Nombre": "Maria Lopez",
+  "Salario por Hora": 30,
+  "Horas Trabajadas": 150
+},
+{
+  "_id": {
+    "$oid": "6725a91ed5d775d0935764e8"
+  },
+  "Nombre": "Carlos Diaz",
+  "Salario por Hora": 22.75,
+  "Horas Trabajadas": 170
+},
+{
+  "_id": {
+    "$oid": "6725a91ed5d775d0935764e9"
+  },
+  "Nombre": "Ana Martinez",
+  "Salario por Hora": 28.5,
+  "Horas Trabajadas": 155
+},
+{
+  "_id": {
+    "$oid": "6725a91ed5d775d0935764ea"
+  },
+  "Nombre": "Luis Torres",
+  "Salario por Hora": 27,
+  "Horas Trabajadas": 165
+},
+{
+  "_id": {
+    "$oid": "6725a91ed5d775d0935764eb"
+  },
+  "Nombre": "Sofia Ramirez",
+  "Salario por Hora": 26.75,
+  "Horas Trabajadas": 158
+},
+{
+  "_id": {
+    "$oid": "6725a91ed5d775d0935764ec"
+  },
+  "Nombre": "Miguel Gomez",
+  "Salario por Hora": 24.5,
+  "Horas Trabajadas": 162
+},
+{
+  "_id": {
+    "$oid": "6725a91ed5d775d0935764ed"
+  },
+  "Nombre": "Carla Fernandez",
+  "Salario por Hora": 29,
+  "Horas Trabajadas": 148
+},
+{
+  "_id": {
+    "$oid": "6725a91ed5d775d0935764ee"
+  },
+  "Nombre": "Jorge Hernandez",
+  "Salario por Hora": 21,
+  "Horas Trabajadas": 172
+},
+{
+  "_id": {
+    "$oid": "6725a91ed5d775d0935764ef"
+  },
+  "Nombre": "Lucia Castro",
+  "Salario por Hora": 30.5,
+  "Horas Trabajadas": 160
+},
+{
+  "_id": {
+    "$oid": "6725ac814001939b9b27900d"
+  },
+  "Nombre": "Juan Perez",
+  "Salario por Hora": 25.5,
+  "Horas Trabajadas": 160
+},
+{
+  "_id": {
+    "$oid": "6725ac814001939b9b27900e"
+  },
+  "Nombre": "Maria Lopez",
+  "Salario por Hora": 30,
+  "Horas Trabajadas": 150
+},
+{
+  "_id": {
+    "$oid": "6725ac814001939b9b27900f"
+  },
+  "Nombre": "Carlos Diaz",
+  "Salario por Hora": 22.75,
+  "Horas Trabajadas": 170
+},
+{
+  "_id": {
+    "$oid": "6725ac814001939b9b279010"
+  },
+  "Nombre": "Ana Martinez",
+  "Salario por Hora": 28.5,
+  "Horas Trabajadas": 155
+},
+{
+  "_id": {
+    "$oid": "6725ac814001939b9b279011"
+  },
+  "Nombre": "Luis Torres",
+  "Salario por Hora": 27,
+  "Horas Trabajadas": 165
+},
+{
+  "_id": {
+    "$oid": "6725ac814001939b9b279012"
+  },
+  "Nombre": "Sofia Ramirez",
+  "Salario por Hora": 26.75,
+  "Horas Trabajadas": 158
+},
+{
+  "_id": {
+    "$oid": "6725ac814001939b9b279013"
+  },
+  "Nombre": "Miguel Gomez",
+  "Salario por Hora": 24.5,
+  "Horas Trabajadas": 162
+},
+{
+  "_id": {
+    "$oid": "6725ac814001939b9b279014"
+  },
+  "Nombre": "Carla Fernandez",
+  "Salario por Hora": 29,
+  "Horas Trabajadas": 148
+},
+{
+  "_id": {
+    "$oid": "6725ac814001939b9b279015"
+  },
+  "Nombre": "Jorge Hernandez",
+  "Salario por Hora": 21,
+  "Horas Trabajadas": 172
+},
+{
+  "_id": {
+    "$oid": "6725ac814001939b9b279016"
+  },
+  "Nombre": "Lucia Castro",
+  "Salario por Hora": 30.5,
+  "Horas Trabajadas": 160
+},
+{
+  "_id": {
+    "$oid": "6725ae2d9eda44c41bb8d4b9"
+  },
+  "Nombre": "Juan Perez",
+  "Salario por Hora": 25.5,
+  "Horas Trabajadas": 160
+},
+{
+  "_id": {
+    "$oid": "6725ae2d9eda44c41bb8d4ba"
+  },
+  "Nombre": "Maria Lopez",
+  "Salario por Hora": 30,
+  "Horas Trabajadas": 150
+},
+{
+  "_id": {
+    "$oid": "6725ae2d9eda44c41bb8d4bb"
+  },
+  "Nombre": "Carlos Diaz",
+  "Salario por Hora": 22.75,
+  "Horas Trabajadas": 170
+},
+{
+  "_id": {
+    "$oid": "6725ae2d9eda44c41bb8d4bc"
+  },
+  "Nombre": "Ana Martinez",
+  "Salario por Hora": 28.5,
+  "Horas Trabajadas": 155
+},
+{
+  "_id": {
+    "$oid": "6725ae2d9eda44c41bb8d4bd"
+  },
+  "Nombre": "Luis Torres",
+  "Salario por Hora": 27,
+  "Horas Trabajadas": 165
+},
+{
+  "_id": {
+    "$oid": "6725ae2d9eda44c41bb8d4be"
+  },
+  "Nombre": "Sofia Ramirez",
+  "Salario por Hora": 26.75,
+  "Horas Trabajadas": 158
+},
+{
+  "_id": {
+    "$oid": "6725ae2d9eda44c41bb8d4bf"
+  },
+  "Nombre": "Miguel Gomez",
+  "Salario por Hora": 24.5,
+  "Horas Trabajadas": 162
+},
+{
+  "_id": {
+    "$oid": "6725ae2d9eda44c41bb8d4c0"
+  },
+  "Nombre": "Carla Fernandez",
+  "Salario por Hora": 29,
+  "Horas Trabajadas": 148
+},
+{
+  "_id": {
+    "$oid": "6725ae2d9eda44c41bb8d4c1"
+  },
+  "Nombre": "Jorge Hernandez",
+  "Salario por Hora": 21,
+  "Horas Trabajadas": 172
+},
+{
+  "_id": {
+    "$oid": "6725ae2d9eda44c41bb8d4c2"
+  },
+  "Nombre": "Lucia Castro",
+  "Salario por Hora": 30.5,
+  "Horas Trabajadas": 160
+},
+{
+  "_id": {
+    "$oid": "6725ae950c0dde3943fccc89"
+  },
+  "Nombre": "Juan Perez",
+  "Salario por Hora": 25.5,
+  "Horas Trabajadas": 160
+},
+{
+  "_id": {
+    "$oid": "6725ae950c0dde3943fccc8a"
+  },
+  "Nombre": "Maria Lopez",
+  "Salario por Hora": 30,
+  "Horas Trabajadas": 150
+},
+{
+  "_id": {
+    "$oid": "6725ae950c0dde3943fccc8b"
+  },
+  "Nombre": "Carlos Diaz",
+  "Salario por Hora": 22.75,
+  "Horas Trabajadas": 170
+},
+{
+  "_id": {
+    "$oid": "6725ae950c0dde3943fccc8c"
+  },
+  "Nombre": "Ana Martinez",
+  "Salario por Hora": 28.5,
+  "Horas Trabajadas": 155
+},
+{
+  "_id": {
+    "$oid": "6725ae950c0dde3943fccc8d"
+  },
+  "Nombre": "Luis Torres",
+  "Salario por Hora": 27,
+  "Horas Trabajadas": 165
+},
+{
+  "_id": {
+    "$oid": "6725ae950c0dde3943fccc8e"
+  },
+  "Nombre": "Sofia Ramirez",
+  "Salario por Hora": 26.75,
+  "Horas Trabajadas": 158
+},
+{
+  "_id": {
+    "$oid": "6725ae950c0dde3943fccc8f"
+  },
+  "Nombre": "Miguel Gomez",
+  "Salario por Hora": 24.5,
+  "Horas Trabajadas": 162
+},
+{
+  "_id": {
+    "$oid": "6725ae950c0dde3943fccc90"
+  },
+  "Nombre": "Carla Fernandez",
+  "Salario por Hora": 29,
+  "Horas Trabajadas": 148
+},
+{
+  "_id": {
+    "$oid": "6725ae950c0dde3943fccc91"
+  },
+  "Nombre": "Jorge Hernandez",
+  "Salario por Hora": 21,
+  "Horas Trabajadas": 172
+},
+{
+  "_id": {
+    "$oid": "6725ae950c0dde3943fccc92"
+  },
+  "Nombre": "Lucia Castro",
+  "Salario por Hora": 30.5,
+  "Horas Trabajadas": 160
+},
+{
+  "_id": {
+    "$oid": "6725afe19099eda56b2c5894"
+  },
+  "Nombre": "Juan Perez",
+  "Salario por Hora": 25.5,
+  "Horas Trabajadas": 160
+},
+{
+  "_id": {
+    "$oid": "6725afe19099eda56b2c5895"
+  },
+  "Nombre": "Maria Lopez",
+  "Salario por Hora": 30,
+  "Horas Trabajadas": 150
+},
+{
+  "_id": {
+    "$oid": "6725afe19099eda56b2c5896"
+  },
+  "Nombre": "Carlos Diaz",
+  "Salario por Hora": 22.75,
+  "Horas Trabajadas": 170
+},
+{
+  "_id": {
+    "$oid": "6725afe19099eda56b2c5897"
+  },
+  "Nombre": "Ana Martinez",
+  "Salario por Hora": 28.5,
+  "Horas Trabajadas": 155
+},
+{
+  "_id": {
+    "$oid": "6725afe19099eda56b2c5898"
+  },
+  "Nombre": "Luis Torres",
+  "Salario por Hora": 27,
+  "Horas Trabajadas": 165
+},
+{
+  "_id": {
+    "$oid": "6725afe19099eda56b2c5899"
+  },
+  "Nombre": "Sofia Ramirez",
+  "Salario por Hora": 26.75,
+  "Horas Trabajadas": 158
+},
+{
+  "_id": {
+    "$oid": "6725afe19099eda56b2c589a"
+  },
+  "Nombre": "Miguel Gomez",
+  "Salario por Hora": 24.5,
+  "Horas Trabajadas": 162
+},
+{
+  "_id": {
+    "$oid": "6725afe19099eda56b2c589b"
+  },
+  "Nombre": "Carla Fernandez",
+  "Salario por Hora": 29,
+  "Horas Trabajadas": 148
+},
+{
+  "_id": {
+    "$oid": "6725afe19099eda56b2c589c"
+  },
+  "Nombre": "Jorge Hernandez",
+  "Salario por Hora": 21,
+  "Horas Trabajadas": 172
+},
+{
+  "_id": {
+    "$oid": "6725afe19099eda56b2c589d"
+  },
+  "Nombre": "Lucia Castro",
+  "Salario por Hora": 30.5,
+  "Horas Trabajadas": 160
+},
+{
+  "_id": {
+    "$oid": "6725b18251f5ff658d9a83ec"
+  },
+  "Nombre": "Juan Perez",
+  "Salario por Hora": 25.5,
+  "Horas Trabajadas": 160
+},
+{
+  "_id": {
+    "$oid": "6725b18251f5ff658d9a83ed"
+  },
+  "Nombre": "Maria Lopez",
+  "Salario por Hora": 30,
+  "Horas Trabajadas": 150
+},
+{
+  "_id": {
+    "$oid": "6725b18251f5ff658d9a83ee"
+  },
+  "Nombre": "Carlos Diaz",
+  "Salario por Hora": 22.75,
+  "Horas Trabajadas": 170
+},
+{
+  "_id": {
+    "$oid": "6725b18251f5ff658d9a83ef"
+  },
+  "Nombre": "Ana Martinez",
+  "Salario por Hora": 28.5,
+  "Horas Trabajadas": 155
+},
+{
+  "_id": {
+    "$oid": "6725b18251f5ff658d9a83f0"
+  },
+  "Nombre": "Luis Torres",
+  "Salario por Hora": 27,
+  "Horas Trabajadas": 165
+},
+{
+  "_id": {
+    "$oid": "6725b18251f5ff658d9a83f1"
+  },
+  "Nombre": "Sofia Ramirez",
+  "Salario por Hora": 26.75,
+  "Horas Trabajadas": 158
+},
+{
+  "_id": {
+    "$oid": "6725b18251f5ff658d9a83f2"
+  },
+  "Nombre": "Miguel Gomez",
+  "Salario por Hora": 24.5,
+  "Horas Trabajadas": 162
+},
+{
+  "_id": {
+    "$oid": "6725b18251f5ff658d9a83f3"
+  },
+  "Nombre": "Carla Fernandez",
+  "Salario por Hora": 29,
+  "Horas Trabajadas": 148
+},
+{
+  "_id": {
+    "$oid": "6725b18251f5ff658d9a83f4"
+  },
+  "Nombre": "Jorge Hernandez",
+  "Salario por Hora": 21,
+  "Horas Trabajadas": 172
+},
+{
+  "_id": {
+    "$oid": "6725b18251f5ff658d9a83f5"
+  },
+  "Nombre": "Lucia Castro",
+  "Salario por Hora": 30.5,
+  "Horas Trabajadas": 160
+},
+{
+  "_id": {
+    "$oid": "6725b3055dcdf5082da7cee2"
+  },
+  "Nombre": "Juan Perez",
+  "Salario por Hora": 25.5,
+  "Horas Trabajadas": 160
+},
+{
+  "_id": {
+    "$oid": "6725b3055dcdf5082da7cee3"
+  },
+  "Nombre": "Maria Lopez",
+  "Salario por Hora": 30,
+  "Horas Trabajadas": 150
+},
+{
+  "_id": {
+    "$oid": "6725b3055dcdf5082da7cee4"
+  },
+  "Nombre": "Carlos Diaz",
+  "Salario por Hora": 22.75,
+  "Horas Trabajadas": 170
+},
+{
+  "_id": {
+    "$oid": "6725b3055dcdf5082da7cee5"
+  },
+  "Nombre": "Ana Martinez",
+  "Salario por Hora": 28.5,
+  "Horas Trabajadas": 155
+},
+{
+  "_id": {
+    "$oid": "6725b3055dcdf5082da7cee6"
+  },
+  "Nombre": "Luis Torres",
+  "Salario por Hora": 27,
+  "Horas Trabajadas": 165
+},
+{
+  "_id": {
+    "$oid": "6725b3055dcdf5082da7cee7"
+  },
+  "Nombre": "Sofia Ramirez",
+  "Salario por Hora": 26.75,
+  "Horas Trabajadas": 158
+},
+{
+  "_id": {
+    "$oid": "6725b3055dcdf5082da7cee8"
+  },
+  "Nombre": "Miguel Gomez",
+  "Salario por Hora": 24.5,
+  "Horas Trabajadas": 162
+},
+{
+  "_id": {
+    "$oid": "6725b3055dcdf5082da7cee9"
+  },
+  "Nombre": "Carla Fernandez",
+  "Salario por Hora": 29,
+  "Horas Trabajadas": 148
+},
+{
+  "_id": {
+    "$oid": "6725b3055dcdf5082da7ceea"
+  },
+  "Nombre": "Jorge Hernandez",
+  "Salario por Hora": 21,
+  "Horas Trabajadas": 172
+},
+{
+  "_id": {
+    "$oid": "6725b3055dcdf5082da7ceeb"
+  },
+  "Nombre": "Lucia Castro",
+  "Salario por Hora": 30.5,
+  "Horas Trabajadas": 160
+},
+{
+  "_id": {
+    "$oid": "6725b3e73ea30f902940d7ba"
+  },
+  "Nombre": "Juan Perez",
+  "Salario por Hora": 25.5,
+  "Horas Trabajadas": 160
+},
+{
+  "_id": {
+    "$oid": "6725b3e73ea30f902940d7bb"
+  },
+  "Nombre": "Maria Lopez",
+  "Salario por Hora": 30,
+  "Horas Trabajadas": 150
+},
+{
+  "_id": {
+    "$oid": "6725b3e73ea30f902940d7bc"
+  },
+  "Nombre": "Carlos Diaz",
+  "Salario por Hora": 22.75,
+  "Horas Trabajadas": 170
+},
+{
+  "_id": {
+    "$oid": "6725b3e73ea30f902940d7bd"
+  },
+  "Nombre": "Ana Martinez",
+  "Salario por Hora": 28.5,
+  "Horas Trabajadas": 155
+},
+{
+  "_id": {
+    "$oid": "6725b3e73ea30f902940d7be"
+  },
+  "Nombre": "Luis Torres",
+  "Salario por Hora": 27,
+  "Horas Trabajadas": 165
+},
+{
+  "_id": {
+    "$oid": "6725b3e73ea30f902940d7bf"
+  },
+  "Nombre": "Sofia Ramirez",
+  "Salario por Hora": 26.75,
+  "Horas Trabajadas": 158
+},
+{
+  "_id": {
+    "$oid": "6725b3e73ea30f902940d7c0"
+  },
+  "Nombre": "Miguel Gomez",
+  "Salario por Hora": 24.5,
+  "Horas Trabajadas": 162
+},
+{
+  "_id": {
+    "$oid": "6725b3e73ea30f902940d7c1"
+  },
+  "Nombre": "Carla Fernandez",
+  "Salario por Hora": 29,
+  "Horas Trabajadas": 148
+},
+{
+  "_id": {
+    "$oid": "6725b3e73ea30f902940d7c2"
+  },
+  "Nombre": "Jorge Hernandez",
+  "Salario por Hora": 21,
+  "Horas Trabajadas": 172
+},
+{
+  "_id": {
+    "$oid": "6725b3e73ea30f902940d7c3"
+  },
+  "Nombre": "Lucia Castro",
+  "Salario por Hora": 30.5,
+  "Horas Trabajadas": 160
+},
+{
+  "_id": {
+    "$oid": "6725b6805f5eaf264f8adff2"
+  },
+  "Nombre": "Juan Perez",
+  "Salario por Hora": 25.5,
+  "Horas Trabajadas": 160
+},
+{
+  "_id": {
+    "$oid": "6725b6805f5eaf264f8adff3"
+  },
+  "Nombre": "Maria Lopez",
+  "Salario por Hora": 30,
+  "Horas Trabajadas": 150
+},
+{
+  "_id": {
+    "$oid": "6725b6805f5eaf264f8adff4"
+  },
+  "Nombre": "Carlos Diaz",
+  "Salario por Hora": 22.75,
+  "Horas Trabajadas": 170
+},
+{
+  "_id": {
+    "$oid": "6725b6805f5eaf264f8adff5"
+  },
+  "Nombre": "Ana Martinez",
+  "Salario por Hora": 28.5,
+  "Horas Trabajadas": 155
+},
+{
+  "_id": {
+    "$oid": "6725b6805f5eaf264f8adff6"
+  },
+  "Nombre": "Luis Torres",
+  "Salario por Hora": 27,
+  "Horas Trabajadas": 165
+},
+{
+  "_id": {
+    "$oid": "6725b6805f5eaf264f8adff7"
+  },
+  "Nombre": "Sofia Ramirez",
+  "Salario por Hora": 26.75,
+  "Horas Trabajadas": 158
+},
+{
+  "_id": {
+    "$oid": "6725b6805f5eaf264f8adff8"
+  },
+  "Nombre": "Miguel Gomez",
+  "Salario por Hora": 24.5,
+  "Horas Trabajadas": 162
+},
+{
+  "_id": {
+    "$oid": "6725b6805f5eaf264f8adff9"
+  },
+  "Nombre": "Carla Fernandez",
+  "Salario por Hora": 29,
+  "Horas Trabajadas": 148
+},
+{
+  "_id": {
+    "$oid": "6725b6805f5eaf264f8adffa"
+  },
+  "Nombre": "Jorge Hernandez",
+  "Salario por Hora": 21,
+  "Horas Trabajadas": 172
+},
+{
+  "_id": {
+    "$oid": "6725b6805f5eaf264f8adffb"
+  },
+  "Nombre": "Lucia Castro",
+  "Salario por Hora": 30.5,
+  "Horas Trabajadas": 160
+},
+{
+  "_id": {
+    "$oid": "6725b6c049128f63bd30d79c"
+  },
+  "Nombre": "Juan Perez",
+  "Salario por Hora": 25.5,
+  "Horas Trabajadas": 160
+},
+{
+  "_id": {
+    "$oid": "6725b6c049128f63bd30d79d"
+  },
+  "Nombre": "Maria Lopez",
+  "Salario por Hora": 30,
+  "Horas Trabajadas": 150
+},
+{
+  "_id": {
+    "$oid": "6725b6c049128f63bd30d79e"
+  },
+  "Nombre": "Carlos Diaz",
+  "Salario por Hora": 22.75,
+  "Horas Trabajadas": 170
+},
+{
+  "_id": {
+    "$oid": "6725b6c049128f63bd30d79f"
+  },
+  "Nombre": "Ana Martinez",
+  "Salario por Hora": 28.5,
+  "Horas Trabajadas": 155
+},
+{
+  "_id": {
+    "$oid": "6725b6c049128f63bd30d7a0"
+  },
+  "Nombre": "Luis Torres",
+  "Salario por Hora": 27,
+  "Horas Trabajadas": 165
+},
+{
+  "_id": {
+    "$oid": "6725b6c049128f63bd30d7a1"
+  },
+  "Nombre": "Sofia Ramirez",
+  "Salario por Hora": 26.75,
+  "Horas Trabajadas": 158
+},
+{
+  "_id": {
+    "$oid": "6725b6c049128f63bd30d7a2"
+  },
+  "Nombre": "Miguel Gomez",
+  "Salario por Hora": 24.5,
+  "Horas Trabajadas": 162
+},
+{
+  "_id": {
+    "$oid": "6725b6c049128f63bd30d7a3"
+  },
+  "Nombre": "Carla Fernandez",
+  "Salario por Hora": 29,
+  "Horas Trabajadas": 148
+},
+{
+  "_id": {
+    "$oid": "6725b6c049128f63bd30d7a4"
+  },
+  "Nombre": "Jorge Hernandez",
+  "Salario por Hora": 21,
+  "Horas Trabajadas": 172
+},
+{
+  "_id": {
+    "$oid": "6725b6c049128f63bd30d7a5"
+  },
+  "Nombre": "Lucia Castro",
+  "Salario por Hora": 30.5,
+  "Horas Trabajadas": 160
+},
+{
+  "_id": {
+    "$oid": "6725b74c24795b2254782892"
+  },
+  "Nombre": "Juan Perez",
+  "Salario por Hora": 25.5,
+  "Horas Trabajadas": 160
+},
+{
+  "_id": {
+    "$oid": "6725b74c24795b2254782893"
+  },
+  "Nombre": "Maria Lopez",
+  "Salario por Hora": 30,
+  "Horas Trabajadas": 150
+},
+{
+  "_id": {
+    "$oid": "6725b74c24795b2254782894"
+  },
+  "Nombre": "Carlos Diaz",
+  "Salario por Hora": 22.75,
+  "Horas Trabajadas": 170
+},
+{
+  "_id": {
+    "$oid": "6725b74c24795b2254782895"
+  },
+  "Nombre": "Ana Martinez",
+  "Salario por Hora": 28.5,
+  "Horas Trabajadas": 155
+},
+{
+  "_id": {
+    "$oid": "6725b74c24795b2254782896"
+  },
+  "Nombre": "Luis Torres",
+  "Salario por Hora": 27,
+  "Horas Trabajadas": 165
+},
+{
+  "_id": {
+    "$oid": "6725b74c24795b2254782897"
+  },
+  "Nombre": "Sofia Ramirez",
+  "Salario por Hora": 26.75,
+  "Horas Trabajadas": 158
+},
+{
+  "_id": {
+    "$oid": "6725b74c24795b2254782898"
+  },
+  "Nombre": "Miguel Gomez",
+  "Salario por Hora": 24.5,
+  "Horas Trabajadas": 162
+},
+{
+  "_id": {
+    "$oid": "6725b74c24795b2254782899"
+  },
+  "Nombre": "Carla Fernandez",
+  "Salario por Hora": 29,
+  "Horas Trabajadas": 148
+},
+{
+  "_id": {
+    "$oid": "6725b74c24795b225478289a"
+  },
+  "Nombre": "Jorge Hernandez",
+  "Salario por Hora": 21,
+  "Horas Trabajadas": 172
+},
+{
+  "_id": {
+    "$oid": "6725b74c24795b225478289b"
+  },
+  "Nombre": "Lucia Castro",
+  "Salario por Hora": 30.5,
+  "Horas Trabajadas": 160
+},
+{
+  "_id": {
+    "$oid": "6725b9139fc6ff9a483db3b8"
+  },
+  "Nombre": "Juan Perez",
+  "Salario por Hora": 25.5,
+  "Horas Trabajadas": 160
+},
+{
+  "_id": {
+    "$oid": "6725b9139fc6ff9a483db3b9"
+  },
+  "Nombre": "Maria Lopez",
+  "Salario por Hora": 30,
+  "Horas Trabajadas": 150
+},
+{
+  "_id": {
+    "$oid": "6725b9139fc6ff9a483db3ba"
+  },
+  "Nombre": "Carlos Diaz",
+  "Salario por Hora": 22.75,
+  "Horas Trabajadas": 170
+},
+{
+  "_id": {
+    "$oid": "6725b9139fc6ff9a483db3bb"
+  },
+  "Nombre": "Ana Martinez",
+  "Salario por Hora": 28.5,
+  "Horas Trabajadas": 155
+},
+{
+  "_id": {
+    "$oid": "6725b9139fc6ff9a483db3bc"
+  },
+  "Nombre": "Luis Torres",
+  "Salario por Hora": 27,
+  "Horas Trabajadas": 165
+},
+{
+  "_id": {
+    "$oid": "6725b9139fc6ff9a483db3bd"
+  },
+  "Nombre": "Sofia Ramirez",
+  "Salario por Hora": 26.75,
+  "Horas Trabajadas": 158
+},
+{
+  "_id": {
+    "$oid": "6725b9139fc6ff9a483db3be"
+  },
+  "Nombre": "Miguel Gomez",
+  "Salario por Hora": 24.5,
+  "Horas Trabajadas": 162
+},
+{
+  "_id": {
+    "$oid": "6725b9139fc6ff9a483db3bf"
+  },
+  "Nombre": "Carla Fernandez",
+  "Salario por Hora": 29,
+  "Horas Trabajadas": 148
+},
+{
+  "_id": {
+    "$oid": "6725b9139fc6ff9a483db3c0"
+  },
+  "Nombre": "Jorge Hernandez",
+  "Salario por Hora": 21,
+  "Horas Trabajadas": 172
+},
+{
+  "_id": {
+    "$oid": "6725b9139fc6ff9a483db3c1"
+  },
+  "Nombre": "Lucia Castro",
+  "Salario por Hora": 30.5,
+  "Horas Trabajadas": 160
+},
+{
+  "_id": {
+    "$oid": "6725b94aa2c34c85f0e4f649"
+  },
+  "Nombre": "Juan Perez",
+  "Salario por Hora": 25.5,
+  "Horas Trabajadas": 160
+},
+{
+  "_id": {
+    "$oid": "6725b94aa2c34c85f0e4f64a"
+  },
+  "Nombre": "Maria Lopez",
+  "Salario por Hora": 30,
+  "Horas Trabajadas": 150
+},
+{
+  "_id": {
+    "$oid": "6725b94aa2c34c85f0e4f64b"
+  },
+  "Nombre": "Carlos Diaz",
+  "Salario por Hora": 22.75,
+  "Horas Trabajadas": 170
+},
+{
+  "_id": {
+    "$oid": "6725b94aa2c34c85f0e4f64c"
+  },
+  "Nombre": "Ana Martinez",
+  "Salario por Hora": 28.5,
+  "Horas Trabajadas": 155
+},
+{
+  "_id": {
+    "$oid": "6725b94aa2c34c85f0e4f64d"
+  },
+  "Nombre": "Luis Torres",
+  "Salario por Hora": 27,
+  "Horas Trabajadas": 165
+},
+{
+  "_id": {
+    "$oid": "6725b94aa2c34c85f0e4f64e"
+  },
+  "Nombre": "Sofia Ramirez",
+  "Salario por Hora": 26.75,
+  "Horas Trabajadas": 158
+},
+{
+  "_id": {
+    "$oid": "6725b94aa2c34c85f0e4f64f"
+  },
+  "Nombre": "Miguel Gomez",
+  "Salario por Hora": 24.5,
+  "Horas Trabajadas": 162
+},
+{
+  "_id": {
+    "$oid": "6725b94aa2c34c85f0e4f650"
+  },
+  "Nombre": "Carla Fernandez",
+  "Salario por Hora": 29,
+  "Horas Trabajadas": 148
+},
+{
+  "_id": {
+    "$oid": "6725b94aa2c34c85f0e4f651"
+  },
+  "Nombre": "Jorge Hernandez",
+  "Salario por Hora": 21,
+  "Horas Trabajadas": 172
+},
+{
+  "_id": {
+    "$oid": "6725b94aa2c34c85f0e4f652"
+  },
+  "Nombre": "Lucia Castro",
+  "Salario por Hora": 30.5,
+  "Horas Trabajadas": 160
+},
+{
+  "_id": {
+    "$oid": "6725b9ee6714ca6116c1015c"
+  },
+  "Nombre": "Juan Perez",
+  "Salario por Hora": 25.5,
+  "Horas Trabajadas": 160
+},
+{
+  "_id": {
+    "$oid": "6725b9ee6714ca6116c1015d"
+  },
+  "Nombre": "Maria Lopez",
+  "Salario por Hora": 30,
+  "Horas Trabajadas": 150
+},
+{
+  "_id": {
+    "$oid": "6725b9ee6714ca6116c1015e"
+  },
+  "Nombre": "Carlos Diaz",
+  "Salario por Hora": 22.75,
+  "Horas Trabajadas": 170
+},
+{
+  "_id": {
+    "$oid": "6725b9ee6714ca6116c1015f"
+  },
+  "Nombre": "Ana Martinez",
+  "Salario por Hora": 28.5,
+  "Horas Trabajadas": 155
+},
+{
+  "_id": {
+    "$oid": "6725b9ee6714ca6116c10160"
+  },
+  "Nombre": "Luis Torres",
+  "Salario por Hora": 27,
+  "Horas Trabajadas": 165
+},
+{
+  "_id": {
+    "$oid": "6725b9ee6714ca6116c10161"
+  },
+  "Nombre": "Sofia Ramirez",
+  "Salario por Hora": 26.75,
+  "Horas Trabajadas": 158
+},
+{
+  "_id": {
+    "$oid": "6725b9ee6714ca6116c10162"
+  },
+  "Nombre": "Miguel Gomez",
+  "Salario por Hora": 24.5,
+  "Horas Trabajadas": 162
+},
+{
+  "_id": {
+    "$oid": "6725b9ee6714ca6116c10163"
+  },
+  "Nombre": "Carla Fernandez",
+  "Salario por Hora": 29,
+  "Horas Trabajadas": 148
+},
+{
+  "_id": {
+    "$oid": "6725b9ee6714ca6116c10164"
+  },
+  "Nombre": "Jorge Hernandez",
+  "Salario por Hora": 21,
+  "Horas Trabajadas": 172
+},
+{
+  "_id": {
+    "$oid": "6725b9ee6714ca6116c10165"
+  },
+  "Nombre": "Lucia Castro",
+  "Salario por Hora": 30.5,
+  "Horas Trabajadas": 160
+},
+{
+  "_id": {
+    "$oid": "6725ba056714ca6116c10170"
+  },
+  "Nombre": "Juan Perez",
+  "Salario por Hora": 25.5,
+  "Horas Trabajadas": 160
+},
+{
+  "_id": {
+    "$oid": "6725ba056714ca6116c10171"
+  },
+  "Nombre": "Maria Lopez",
+  "Salario por Hora": 30,
+  "Horas Trabajadas": 150
+},
+{
+  "_id": {
+    "$oid": "6725ba056714ca6116c10172"
+  },
+  "Nombre": "Carlos Diaz",
+  "Salario por Hora": 22.75,
+  "Horas Trabajadas": 170
+},
+{
+  "_id": {
+    "$oid": "6725ba056714ca6116c10173"
+  },
+  "Nombre": "Ana Martinez",
+  "Salario por Hora": 28.5,
+  "Horas Trabajadas": 155
+},
+{
+  "_id": {
+    "$oid": "6725ba056714ca6116c10174"
+  },
+  "Nombre": "Luis Torres",
+  "Salario por Hora": 27,
+  "Horas Trabajadas": 165
+},
+{
+  "_id": {
+    "$oid": "6725ba056714ca6116c10175"
+  },
+  "Nombre": "Sofia Ramirez",
+  "Salario por Hora": 26.75,
+  "Horas Trabajadas": 158
+},
+{
+  "_id": {
+    "$oid": "6725ba056714ca6116c10176"
+  },
+  "Nombre": "Miguel Gomez",
+  "Salario por Hora": 24.5,
+  "Horas Trabajadas": 162
+},
+{
+  "_id": {
+    "$oid": "6725ba056714ca6116c10177"
+  },
+  "Nombre": "Carla Fernandez",
+  "Salario por Hora": 29,
+  "Horas Trabajadas": 148
+},
+{
+  "_id": {
+    "$oid": "6725ba056714ca6116c10178"
+  },
+  "Nombre": "Jorge Hernandez",
+  "Salario por Hora": 21,
+  "Horas Trabajadas": 172
+},
+{
+  "_id": {
+    "$oid": "6725ba056714ca6116c10179"
+  },
+  "Nombre": "Lucia Castro",
+  "Salario por Hora": 30.5,
+  "Horas Trabajadas": 160
+},
+{
+  "_id": {
+    "$oid": "6725bc5b225b89ad65946c95"
+  },
+  "Nombre": "Juan Perez",
+  "Salario por Hora": 25.5,
+  "Horas Trabajadas": 160
+},
+{
+  "_id": {
+    "$oid": "6725bc5b225b89ad65946c96"
+  },
+  "Nombre": "Maria Lopez",
+  "Salario por Hora": 30,
+  "Horas Trabajadas": 150
+},
+{
+  "_id": {
+    "$oid": "6725bc5b225b89ad65946c97"
+  },
+  "Nombre": "Carlos Diaz",
+  "Salario por Hora": 22.75,
+  "Horas Trabajadas": 170
+},
+{
+  "_id": {
+    "$oid": "6725bc5b225b89ad65946c98"
+  },
+  "Nombre": "Ana Martinez",
+  "Salario por Hora": 28.5,
+  "Horas Trabajadas": 155
+},
+{
+  "_id": {
+    "$oid": "6725bc5b225b89ad65946c99"
+  },
+  "Nombre": "Luis Torres",
+  "Salario por Hora": 27,
+  "Horas Trabajadas": 165
+},
+{
+  "_id": {
+    "$oid": "6725bc5b225b89ad65946c9a"
+  },
+  "Nombre": "Sofia Ramirez",
+  "Salario por Hora": 26.75,
+  "Horas Trabajadas": 158
+},
+{
+  "_id": {
+    "$oid": "6725bc5b225b89ad65946c9b"
+  },
+  "Nombre": "Miguel Gomez",
+  "Salario por Hora": 24.5,
+  "Horas Trabajadas": 162
+},
+{
+  "_id": {
+    "$oid": "6725bc5b225b89ad65946c9c"
+  },
+  "Nombre": "Carla Fernandez",
+  "Salario por Hora": 29,
+  "Horas Trabajadas": 148
+},
+{
+  "_id": {
+    "$oid": "6725bc5b225b89ad65946c9d"
+  },
+  "Nombre": "Jorge Hernandez",
+  "Salario por Hora": 21,
+  "Horas Trabajadas": 172
+},
+{
+  "_id": {
+    "$oid": "6725bc5b225b89ad65946c9e"
+  },
+  "Nombre": "Lucia Castro",
+  "Salario por Hora": 30.5,
+  "Horas Trabajadas": 160
+},
+{
+  "_id": {
+    "$oid": "6725bd534bda2751b3bf8c70"
+  },
+  "Nombre": "Juan Perez",
+  "Salario por Hora": 25.5,
+  "Horas Trabajadas": 160
+},
+{
+  "_id": {
+    "$oid": "6725bd534bda2751b3bf8c71"
+  },
+  "Nombre": "Maria Lopez",
+  "Salario por Hora": 30,
+  "Horas Trabajadas": 150
+},
+{
+  "_id": {
+    "$oid": "6725bd534bda2751b3bf8c72"
+  },
+  "Nombre": "Carlos Diaz",
+  "Salario por Hora": 22.75,
+  "Horas Trabajadas": 170
+},
+{
+  "_id": {
+    "$oid": "6725bd534bda2751b3bf8c73"
+  },
+  "Nombre": "Ana Martinez",
+  "Salario por Hora": 28.5,
+  "Horas Trabajadas": 155
+},
+{
+  "_id": {
+    "$oid": "6725bd534bda2751b3bf8c74"
+  },
+  "Nombre": "Luis Torres",
+  "Salario por Hora": 27,
+  "Horas Trabajadas": 165
+},
+{
+  "_id": {
+    "$oid": "6725bd534bda2751b3bf8c75"
+  },
+  "Nombre": "Sofia Ramirez",
+  "Salario por Hora": 26.75,
+  "Horas Trabajadas": 158
+},
+{
+  "_id": {
+    "$oid": "6725bd534bda2751b3bf8c76"
+  },
+  "Nombre": "Miguel Gomez",
+  "Salario por Hora": 24.5,
+  "Horas Trabajadas": 162
+},
+{
+  "_id": {
+    "$oid": "6725bd534bda2751b3bf8c77"
+  },
+  "Nombre": "Carla Fernandez",
+  "Salario por Hora": 29,
+  "Horas Trabajadas": 148
+},
+{
+  "_id": {
+    "$oid": "6725bd534bda2751b3bf8c78"
+  },
+  "Nombre": "Jorge Hernandez",
+  "Salario por Hora": 21,
+  "Horas Trabajadas": 172
+},
+{
+  "_id": {
+    "$oid": "6725bd534bda2751b3bf8c79"
+  },
+  "Nombre": "Lucia Castro",
+  "Salario por Hora": 30.5,
+  "Horas Trabajadas": 160
+}]
